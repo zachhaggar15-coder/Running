@@ -1,6 +1,6 @@
 # Project status
 
-Updated: 3 November 2026 (Europe/London)
+Updated: 4 November 2026 (Europe/London)
 
 ## Agreed product direction from the brief
 
@@ -8,39 +8,50 @@ Build an independent, privacy-conscious UK road, trail and ultra race reference 
 
 ## Decisions made
 
-- Stage A research is the current checkpoint. The attached brief requires approval before substantial implementation.
+- The owner approved the Stage A recommendation on 4 November 2026, amended to a 30-race sourcing pilot and preliminary Stage B work. Substantial application development waits until pilot results are reviewed.
 - Publishing project files to this GitHub repository is authorised by the user's request. Public website deployment is a later, separate decision.
 - No brand, domain, hosting plan, data feed, licence or public launch has been approved.
+- The 200–300-profile launch target remains unchanged. No paid services, bulk imports, public deployment or domain purchase are authorised.
+- Normal-operation owner involvement of no more than 1–2 hours/month is a design target to test, not an assumption.
 
 ## Completed
 
 - Initial competitor, search-intent, data-source, rights, SEO and infrastructure review in [Stage A](docs/STAGE_A_FEASIBILITY.md).
-- Initial [source compliance register](docs/SOURCE_COMPLIANCE_REGISTER.md).
-- Small official-source spot check of 2027 editions in each UK nation. This demonstrates that some current facts are available; it is **not** a verified launch database or proof that 200–300 profiles are feasible.
+- Updated [source compliance register](docs/SOURCE_COMPLIANCE_REGISTER.md) with pilot-specific restrictions and holds.
+- [30-race sourcing audit](research/PILOT_REPORT.md) with [row-level evidence](research/pilot_30.tsv) across all four nations and a 13-record same-day recheck.
+- [50-query SEO audit](research/SEO_REPORT.md) with [query-level results](research/search_queries_50.tsv), direct Google spot checks and Google Trends comparisons. Absolute UK search volumes were unavailable.
+- Three [original preliminary profile drafts](research/profile_drafts.md) and [preliminary Stage B concepts](research/STAGE_B_PRELIMINARY.md). No substantial application development or public deployment.
 
 ## Verification performed
 
 - Checked live competitor and official organiser pages, UK IPO database-rights guidance, Google Search Central guidance, and current Vercel/Supabase pricing pages on 3 November 2026.
 - Checked that this GitHub repository exists and was empty at the start of this checkpoint.
-- Did **not** measure keyword volumes, Google Trends indices, ranking difficulty, organiser-page terms at scale, update workload or profile completeness across a representative sample.
+- Audited 30 official-source races on 4 November 2026: 15 meet a provisional factual minimum and 11 are detailed-profile candidates. Cut-offs were found for 10/30, numerical elevation for 6/30, public transport for 6/30, parking for 6/30 and facilities for 15/30.
+- Rechecked 13 records the same day: no race fact changed; two pages had unrelated navigation/widget changes. This cannot establish longer-term maintenance reliability.
+- Inspected 50 specific search-service results, two direct Google results and three GB Google Trends comparisons. No credible absolute search-volume data was accessible, and ranking/traffic forecasts are not justified.
+- Per-event mean/median creation time and monthly human review minutes remain **unmeasured**, because initial sourcing was batched and no permitted recurring update pipeline exists. The feasibility report gives labelled planning scenarios only.
 
 ## Open issues and risks
 
 1. Newer competitors already offer course data, comparisons and even verification cues. Differentiation must be tested, not assumed.
 2. No blanket licence or permitted bulk-import source has been identified. Organiser pages support limited factual, individually reviewed research; automated reuse needs source-by-source assessment.
-3. Achieving 200–300 useful profiles, especially with current logistical details, has not been demonstrated.
-4. Search volume and competitiveness are qualitative at this stage; no traffic forecast is justified.
+3. Achieving 200–300 useful profiles, especially with current logistical details, has not been demonstrated. Northern Ireland yielded only one minimum candidate and no detailed candidate from seven.
+4. Search evidence remains qualitative; no traffic forecast is justified. Official organisers dominate event-name and many logistics/cut-off results, while specialist directories compete for discovery.
 5. Production costs and Vercel Hobby eligibility depend on the final use and plan terms.
+6. The 1–2-hour/month owner workload target is not established. Even an optimistic hypothetical 5% exception rate at 300 records implies about 2.5 hours/month including 30 minutes of oversight.
 
-## Recommended next actions, subject to Stage A approval
+## Approved pilot work plan
 
-1. Run a 20–30-event, stratified official-source pilot covering all UK nations, road/trail/ultra, large/small organisers and several event dates.
-2. Record source terms, time spent per profile, edition-specific fact coverage, update frequency and contradictions. Set a measurable minimum publication standard.
-3. Validate search demand with a keyword data source and a repeatable SERP sample before choosing indexable landing pages.
-4. Present brand concepts, architecture and the pilot results at Stage B; then implement the application.
+1. Research 30 representative official-source races across all four nations, terrains, distances and organiser sizes, without selecting only well-documented events.
+2. Measure current-edition and historical fact coverage, practical fields, research time, human intervention, source limitations and whether each race meets minimum and detailed-profile standards.
+3. Recheck a representative subset and measure source changes, edition ambiguity and manual maintenance effort.
+4. Inspect 40–50 specific UK race queries and competing results. Use credible volume data if accessible; otherwise label it unavailable and report qualitative evidence and any usable Google Trends evidence.
+5. Estimate creation effort for 200–300 profiles and monthly maintenance at 200, 300 and 1,000, with the 1–2 hour owner target explicitly assessed.
+6. Preliminary brand concepts, relational model and wireframes are documented; none are selected or implemented.
+7. **Recommendation:** narrow the next stage to a sequential, timed production-profile sample, source-specific rights/automation clarification and a maintenance test across an edition-change window. Retain the 200–300 launch target pending explicit discussion. Do not start substantial application development from the present evidence.
 
 ## Outstanding owner decisions
 
-- Approve or revise the Stage A recommendation and the limited official-source pilot.
-- Later: brand/domain, any paid plan, use of uncertain sources, launch size if below 200, and public deployment.
-
+- **Completed autonomously:** source/SEO audit, same-day recheck, source compliance register, preliminary content and Stage B sketches. No owner action was needed for these.
+- **Approval required before the next major commitment:** whether to proceed with substantial application development after reviewing these results; any relaxation of the 200–300 target; use of a materially uncertain source; paid plans, domain purchase or public deployment. The proposed narrow validation work stays within the pilot approval.
+- **External-service action genuinely requiring the owner:** none currently identified. Source permissions may later require organiser contact or qualified legal advice; ChatGPT Work should prepare and consolidate any such requests first.
