@@ -7,8 +7,11 @@ The starting brief calls for researched, source-linked profiles of road, trail a
 ## Current checkpoint
 
 - [Stage A: research and feasibility](docs/STAGE_A_FEASIBILITY.md)
+- [30-race pilot and feasibility checkpoint](research/PILOT_REPORT.md)
+- [50-query SEO evidence and analysis](research/SEO_REPORT.md)
 - [Source compliance register](docs/SOURCE_COMPLIANCE_REGISTER.md)
+- [Preliminary Stage B concepts](research/STAGE_B_PRELIMINARY.md)
 - [Project status and decisions](PROJECT_STATUS.md)
 
-No race records, importer, production infrastructure or public site have been created. The 200–300 profile target remains unproven and conditional on quality and lawful sourcing.
+The pilot contains 30 research records, but no publication-ready race database, importer, production infrastructure or public site. The 200–300 profile target remains unproven and conditional on quality, lawful sourcing and a sustainable maintenance workload.
 
