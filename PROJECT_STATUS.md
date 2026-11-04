@@ -13,6 +13,9 @@ Build an independent, privacy-conscious UK road, trail and ultra race reference 
 - No brand, domain, hosting plan, data feed, licence or public launch has been approved.
 - The 200–300-profile launch target remains unchanged. No paid services, bulk imports, public deployment or domain purchase are authorised.
 - Normal-operation owner involvement of no more than 1–2 hours/month is a design target to test, not an assumption.
+- Strategic direction revised on 4 November 2026: differentiate through race suitability and decision-making, not directory size. The working proposition is “Find the race that suits you.”
+- The 200–300 profile ambition remains a long-term expansion target, but is no longer a prerequisite for testing a smaller first release. A first public release size must be agreed before deployment; the current working range is 20–40 quality profiles.
+- Substantial application development is now authorised. Public deployment, domain purchase, paid services and material legal uncertainty still require approval.
 
 ## Completed
 
@@ -21,6 +24,7 @@ Build an independent, privacy-conscious UK road, trail and ultra race reference 
 - [30-race sourcing audit](research/PILOT_REPORT.md) with [row-level evidence](research/pilot_30.tsv) across all four nations and a 13-record same-day recheck.
 - [50-query SEO audit](research/SEO_REPORT.md) with [query-level results](research/search_queries_50.tsv), direct Google spot checks and Google Trends comparisons. Absolute UK search volumes were unavailable.
 - Three [original preliminary profile drafts](research/profile_drafts.md) and [preliminary Stage B concepts](research/STAGE_B_PRELIMINARY.md). No substantial application development or public deployment.
+- Created a dependency-free [Race Fieldnotes prototype](app/index.html) with a suitability finder, searchable directory and three-race comparison using the 15 provisional-minimum pilot records.
 
 ## Verification performed
 
@@ -48,10 +52,17 @@ Build an independent, privacy-conscious UK road, trail and ultra race reference 
 4. Inspect 40–50 specific UK race queries and competing results. Use credible volume data if accessible; otherwise label it unavailable and report qualitative evidence and any usable Google Trends evidence.
 5. Estimate creation effort for 200–300 profiles and monthly maintenance at 200, 300 and 1,000, with the 1–2 hour owner target explicitly assessed.
 6. Preliminary brand concepts, relational model and wireframes are documented; none are selected or implemented.
-7. **Recommendation:** narrow the next stage to a sequential, timed production-profile sample, source-specific rights/automation clarification and a maintenance test across an edition-change window. Retain the 200–300 launch target pending explicit discussion. Do not start substantial application development from the present evidence.
+7. **Superseded by the revised direction:** proceed with a controlled product build while targeted data and legal questions are resolved. The first slice is a private/local review build; no public deployment has occurred.
 
 ## Outstanding owner decisions
 
 - **Completed autonomously:** source/SEO audit, same-day recheck, source compliance register, preliminary content and Stage B sketches. No owner action was needed for these.
 - **Approval required before the next major commitment:** whether to proceed with substantial application development after reviewing these results; any relaxation of the 200–300 target; use of a materially uncertain source; paid plans, domain purchase or public deployment. The proposed narrow validation work stays within the pilot approval.
 - **External-service action genuinely requiring the owner:** none currently identified. Source permissions may later require organiser contact or qualified legal advice; ChatGPT Work should prepare and consolidate any such requests first.
+
+## Implementation progress
+
+- Stage 1 foundation: prototype homepage, finder, directory, filters, source-linked cards and comparison table implemented in `app/`.
+- Initial data: 15 pilot records meeting the provisional factual minimum are included; unknown elevation, cut-off and travel values remain labelled.
+- Stage 2–5: search refinement, profile routes, formal data model, technical SEO, accessibility and browser testing remain in progress.
+- Deployment: not deployed. The repository is ready for the owner to connect to Vercel; no hosting configuration or paid service was created by this work.
