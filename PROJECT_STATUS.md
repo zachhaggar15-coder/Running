@@ -64,5 +64,6 @@ Build an independent, privacy-conscious UK road, trail and ultra race reference 
 
 - Stage 1 foundation: prototype homepage, finder, directory, filters, source-linked cards and comparison table implemented in `app/`.
 - Initial data: 15 pilot records meeting the provisional factual minimum are included; unknown elevation, cut-off and travel values remain labelled.
+- Expansion slice: profile detail overlays now show verified fields, source links and unknowns; finder results include objective-specific context; directory cards expose profile inspection and comparison state.
 - Stage 2–5: search refinement, profile routes, formal data model, technical SEO, accessibility and browser testing remain in progress.
 - Deployment: not deployed. The repository is ready for the owner to connect to Vercel; no hosting configuration or paid service was created by this work.
