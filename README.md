@@ -11,7 +11,7 @@ The starting brief calls for researched, source-linked profiles of road, trail a
 - [50-query SEO evidence and analysis](research/SEO_REPORT.md)
 - [Source compliance register](docs/SOURCE_COMPLIANCE_REGISTER.md)
 - [Preliminary Stage B concepts](research/STAGE_B_PRELIMINARY.md)
+- [Race Fieldnotes prototype](app/README.md)
 - [Project status and decisions](PROJECT_STATUS.md)
 
-The pilot contains 30 research records, but no publication-ready race database, importer, production infrastructure or public site. The 200–300 profile target remains unproven and conditional on quality, lawful sourcing and a sustainable maintenance workload.
-
+The pilot contains 30 research records. The first working product slice is in `app/`: a suitability finder, searchable directory and three-race comparison using 15 provisional-minimum records. It is not publicly deployed; connect the repository to Vercel for a preview. The 200–300 profile target remains an expansion ambition conditional on quality, lawful sourcing and a sustainable maintenance workload.
