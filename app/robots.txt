@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://running-tau-inky.vercel.app/sitemap.xml
+Sitemap: https://racedaycompare.company/sitemap.xml
