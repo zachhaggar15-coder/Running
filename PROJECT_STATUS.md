@@ -72,5 +72,6 @@ Build an independent, privacy-conscious UK road, trail and ultra race reference 
 - Operations: maintenance states and a review queue are documented in [MAINTENANCE_WORKFLOW.md](research/MAINTENANCE_WORKFLOW.md).
 - User journey P1: added an anonymous session shortlist, save/remove actions, comparison removal controls and plain-language comparison conclusions.
 - Search UX: added a visible hero search, rebound directory search listeners to the active renderer, and increased colour contrast across controls, cards and backgrounds.
+- Directory UX: added an explicit Search button beside the directory query field and date filtering. Every catalogue race now displays either a confirmed date or an explicit date-to-confirm state; no date is inferred.
 - Stage 2–5: search refinement, profile routes, formal data model, technical SEO, accessibility and browser testing remain in progress.
 - Deployment: not deployed. The repository is ready for the owner to connect to Vercel; no hosting configuration or paid service was created by this work.
