@@ -1,0 +1,462 @@
+[
+    {
+        "source":  "https://www.centurionrunning.com/races/south-downs-way-50-2027",
+        "slug":  "south-downs-way-50",
+        "course":  {
+                       "distance":  "50 mile ultra",
+                       "terrain":  "trail"
+                   },
+        "provenance":  {
+                           "sourceTerms":  "conditional",
+                           "checkedAt":  "2026-11-04",
+                           "reviewNote":  "Published ascent and cut-off; aid stations are described."
+                       },
+        "edition":  2027,
+        "name":  "South Downs Way 50",
+        "practical":  {
+                          "elevation":  null,
+                          "cutoff":  null,
+                          "facilities":  null,
+                          "transport":  null
+                      },
+        "status":  "review",
+        "nation":  "England"
+    },
+    {
+        "source":  "https://www.maverick-race.com/products/2027/2027-06-05",
+        "slug":  "maverick-peak-district-x-trail",
+        "course":  {
+                       "distance":  "Multiple ultra courses",
+                       "terrain":  "trail"
+                   },
+        "provenance":  {
+                           "sourceTerms":  "conditional",
+                           "checkedAt":  "2026-11-04",
+                           "reviewNote":  "Multiple course options; elevation and cut-off are course-specific."
+                       },
+        "edition":  2027,
+        "name":  "Maverick Peak District X-Trail",
+        "practical":  {
+                          "elevation":  null,
+                          "cutoff":  null,
+                          "facilities":  null,
+                          "transport":  null
+                      },
+        "status":  "review",
+        "nation":  "England"
+    },
+    {
+        "source":  "https://www.thresholdtrailseries.com/race-to-the-stones/",
+        "slug":  "race-to-the-stones",
+        "course":  {
+                       "distance":  "50km / 100km",
+                       "terrain":  "trail"
+                   },
+        "provenance":  {
+                           "sourceTerms":  "conditional",
+                           "checkedAt":  "2026-11-04",
+                           "reviewNote":  "Course-specific elevation, cut-off and facilities are published."
+                       },
+        "edition":  2027,
+        "name":  "Race to the Stones",
+        "practical":  {
+                          "elevation":  null,
+                          "cutoff":  null,
+                          "facilities":  null,
+                          "transport":  null
+                      },
+        "status":  "review",
+        "nation":  "England"
+    },
+    {
+        "source":  "https://www.runthrough.co.uk/event/richmond-park-half-marathon-august-2027",
+        "slug":  "richmond-park-half-marathon",
+        "course":  {
+                       "distance":  "Half marathon",
+                       "terrain":  "road"
+                   },
+        "provenance":  {
+                           "sourceTerms":  "conditional",
+                           "checkedAt":  "2026-11-04",
+                           "reviewNote":  "Park lap format, cut-off, rail walk and facilities are available."
+                       },
+        "edition":  2027,
+        "name":  "Richmond Park Half Marathon",
+        "practical":  {
+                          "elevation":  null,
+                          "cutoff":  null,
+                          "facilities":  null,
+                          "transport":  null
+                      },
+        "status":  "review",
+        "nation":  "England"
+    },
+    {
+        "source":  "https://www.greatrun.org/events/great-north-run/",
+        "slug":  "great-north-run",
+        "course":  {
+                       "distance":  "Half marathon",
+                       "terrain":  "road"
+                   },
+        "provenance":  {
+                           "sourceTerms":  "conditional",
+                           "checkedAt":  "2026-11-04",
+                           "reviewNote":  "Travel and baggage information are available; some timetable details are older."
+                       },
+        "edition":  2027,
+        "name":  "Great North Run",
+        "practical":  {
+                          "elevation":  null,
+                          "cutoff":  null,
+                          "facilities":  null,
+                          "transport":  null
+                      },
+        "status":  "review",
+        "nation":  "England"
+    },
+    {
+        "source":  "https://www.greatrun.org/events/great-south-5k/",
+        "slug":  "great-south-5k",
+        "course":  {
+                       "distance":  "5K",
+                       "terrain":  "road"
+                   },
+        "provenance":  {
+                           "sourceTerms":  "conditional",
+                           "checkedAt":  "2026-11-04",
+                           "reviewNote":  "Route and baggage information are available; timetable details need checking."
+                       },
+        "edition":  2027,
+        "name":  "Great South 5K",
+        "practical":  {
+                          "elevation":  null,
+                          "cutoff":  null,
+                          "facilities":  null,
+                          "transport":  null
+                      },
+        "status":  "review",
+        "nation":  "England"
+    },
+    {
+        "source":  "https://alloahalfmarathon.co.uk/",
+        "slug":  "alloa-half-marathon",
+        "course":  {
+                       "distance":  "Half marathon",
+                       "terrain":  "road"
+                   },
+        "provenance":  {
+                           "sourceTerms":  "conditional",
+                           "checkedAt":  "2026-11-04",
+                           "reviewNote":  "Rail, shuttle, parking restriction and water information are published."
+                       },
+        "edition":  2027,
+        "name":  "Alloa Half Marathon",
+        "practical":  {
+                          "elevation":  null,
+                          "cutoff":  null,
+                          "facilities":  null,
+                          "transport":  null
+                      },
+        "status":  "review",
+        "nation":  "Scotland"
+    },
+    {
+        "source":  "https://www.caledoniangroupevents.co.uk/loch-ness-marathon/event-info/faqs",
+        "slug":  "loch-ness-marathon",
+        "course":  {
+                       "distance":  "Marathon",
+                       "terrain":  "road"
+                   },
+        "provenance":  {
+                           "sourceTerms":  "conditional",
+                           "checkedAt":  "2026-11-04",
+                           "reviewNote":  "Coach, bag, aid and cut-off information are available."
+                       },
+        "edition":  2027,
+        "name":  "Loch Ness Marathon",
+        "practical":  {
+                          "elevation":  null,
+                          "cutoff":  null,
+                          "facilities":  null,
+                          "transport":  null
+                      },
+        "status":  "review",
+        "nation":  "Scotland"
+    },
+    {
+        "source":  "https://caledoniangroupevents.co.uk/index.php/inverness-half-marathon/event/half-marathon",
+        "slug":  "inverness-half-marathon",
+        "course":  {
+                       "distance":  "Half marathon",
+                       "terrain":  "road"
+                   },
+        "provenance":  {
+                           "sourceTerms":  "conditional",
+                           "checkedAt":  "2026-11-04",
+                           "reviewNote":  "Cut-off, bag, water and course information are available."
+                       },
+        "edition":  2027,
+        "name":  "Inverness Half Marathon",
+        "practical":  {
+                          "elevation":  null,
+                          "cutoff":  null,
+                          "facilities":  null,
+                          "transport":  null
+                      },
+        "status":  "review",
+        "nation":  "Scotland"
+    },
+    {
+        "source":  "https://alwaysaimhighevents.com/events/snowdonia-trail-marathon-eryri/snowdonia-trail-ultra-marathon-eryri",
+        "slug":  "snowdonia-trail-ultra-eryri",
+        "course":  {
+                       "distance":  "56km ultra",
+                       "terrain":  "trail"
+                   },
+        "provenance":  {
+                           "sourceTerms":  "conditional",
+                           "checkedAt":  "2026-11-04",
+                           "reviewNote":  "Redesigned route, ascent, staged cut-offs, kit and feed stations are described."
+                       },
+        "edition":  2027,
+        "name":  "Snowdonia Trail Ultra Eryri",
+        "practical":  {
+                          "elevation":  null,
+                          "cutoff":  null,
+                          "facilities":  null,
+                          "transport":  null
+                      },
+        "status":  "review",
+        "nation":  "Wales"
+    },
+    {
+        "source":  "https://www.gbultras.com/beacons-way-ultra-100/",
+        "slug":  "beacons-way-ultra-100",
+        "course":  {
+                       "distance":  "100 mile ultra",
+                       "terrain":  "trail"
+                   },
+        "provenance":  {
+                           "sourceTerms":  "conditional",
+                           "checkedAt":  "2026-11-04",
+                           "reviewNote":  "Ascent, checkpoints, cut-off, kit and qualifying rule are described."
+                       },
+        "edition":  2027,
+        "name":  "Beacons Way Ultra 100",
+        "practical":  {
+                          "elevation":  null,
+                          "cutoff":  null,
+                          "facilities":  null,
+                          "transport":  null
+                      },
+        "status":  "review",
+        "nation":  "Wales"
+    },
+    {
+        "source":  "https://newportwalesmarathon.co.uk/",
+        "slug":  "newport-marathon",
+        "course":  {
+                       "distance":  "Marathon",
+                       "terrain":  "road"
+                   },
+        "provenance":  {
+                           "sourceTerms":  "conditional",
+                           "checkedAt":  "2026-11-04",
+                           "reviewNote":  "Course start, cut-off and age information are available; some copy is mixed-year."
+                       },
+        "edition":  2027,
+        "name":  "Newport Marathon",
+        "practical":  {
+                          "elevation":  null,
+                          "cutoff":  null,
+                          "facilities":  null,
+                          "transport":  null
+                      },
+        "status":  "review",
+        "nation":  "Wales"
+    },
+    {
+        "source":  "https://werunwildni.com/norn-iron-100-half-marathon-2027.html",
+        "slug":  "norn-iron-100-half",
+        "course":  {
+                       "distance":  "Half marathon",
+                       "terrain":  "trail"
+                   },
+        "provenance":  {
+                           "sourceTerms":  "conditional",
+                           "checkedAt":  "2026-11-04",
+                           "reviewNote":  "Waymarks, water refill and own-bottle rule are described."
+                       },
+        "edition":  2027,
+        "name":  "Norn Iron 100 Half Marathon",
+        "practical":  {
+                          "elevation":  null,
+                          "cutoff":  null,
+                          "facilities":  null,
+                          "transport":  null
+                      },
+        "status":  "review",
+        "nation":  "Northern Ireland"
+    },
+    {
+        "source":  "https://www.cardiffhalfmarathon.co.uk/",
+        "slug":  "cardiff-half-marathon",
+        "course":  {
+                       "distance":  "Half marathon",
+                       "terrain":  "road"
+                   },
+        "provenance":  {
+                           "sourceTerms":  "conditional",
+                           "checkedAt":  "2026-11-04",
+                           "reviewNote":  "Date and entry are visible; practical FAQ material needs edition review."
+                       },
+        "edition":  2027,
+        "name":  "Cardiff Half Marathon",
+        "practical":  {
+                          "elevation":  null,
+                          "cutoff":  null,
+                          "facilities":  null,
+                          "transport":  null
+                      },
+        "status":  "review",
+        "nation":  "Wales"
+    },
+    {
+        "source":  "https://www.porthcawl10k.co.uk/",
+        "slug":  "porthcawl-10k",
+        "course":  {
+                       "distance":  "10K",
+                       "terrain":  "road"
+                   },
+        "provenance":  {
+                           "sourceTerms":  "conditional",
+                           "checkedAt":  "2026-11-04",
+                           "reviewNote":  "Date, course, water and pacer information are visible; FAQ is mixed-year."
+                       },
+        "edition":  2027,
+        "name":  "Porthcawl 10K",
+        "practical":  {
+                          "elevation":  null,
+                          "cutoff":  null,
+                          "facilities":  null,
+                          "transport":  null
+                      },
+        "status":  "review",
+        "nation":  "Wales"
+    },
+    {
+        "source":  "https://www.londonmarathonevents.co.uk/london-marathon/event-overview",
+        "slug":  "london-marathon",
+        "course":  {
+                       "distance":  "Marathon",
+                       "terrain":  "road"
+                   },
+        "provenance":  {
+                           "sourceTerms":  "conditional",
+                           "checkedAt":  "2026-11-04",
+                           "reviewNote":  "Official page states 24â€“25 April 2027 and 246 feet elevation gain."
+                       },
+        "edition":  2027,
+        "name":  "TCS London Marathon",
+        "practical":  {
+                          "elevation":  null,
+                          "cutoff":  null,
+                          "facilities":  null,
+                          "transport":  null
+                      },
+        "status":  "review",
+        "nation":  "England"
+    },
+    {
+        "source":  "https://www.westhighlandwayrace.com/",
+        "slug":  "west-highland-way-race",
+        "course":  {
+                       "distance":  "95 mile ultra",
+                       "terrain":  "trail"
+                   },
+        "provenance":  {
+                           "sourceTerms":  "conditional",
+                           "checkedAt":  "2026-11-04",
+                           "reviewNote":  "Official site announces the 2027 race and ballot registration."
+                       },
+        "edition":  2027,
+        "name":  "West Highland Way Race",
+        "practical":  {
+                          "elevation":  null,
+                          "cutoff":  null,
+                          "facilities":  null,
+                          "transport":  null
+                      },
+        "status":  "review",
+        "nation":  "Scotland"
+    },
+    {
+        "source":  "https://skylinescotland.utmb.world/",
+        "slug":  "skyline-scotland-utmb",
+        "course":  {
+                       "distance":  "Mountain trail formats",
+                       "terrain":  "trail"
+                   },
+        "provenance":  {
+                           "sourceTerms":  "conditional",
+                           "checkedAt":  "2026-11-04",
+                           "reviewNote":  "Official site announces a 2027 event with multiple race formats."
+                       },
+        "edition":  2027,
+        "name":  "Skyline Scotland by UTMB",
+        "practical":  {
+                          "elevation":  null,
+                          "cutoff":  null,
+                          "facilities":  null,
+                          "transport":  null
+                      },
+        "status":  "review",
+        "nation":  "Scotland"
+    },
+    {
+        "source":  "https://omaghhalfmarathon.run/",
+        "slug":  "omagh-half-marathon",
+        "course":  {
+                       "distance":  "Half marathon / 5K",
+                       "terrain":  "road"
+                   },
+        "provenance":  {
+                           "sourceTerms":  "conditional",
+                           "checkedAt":  "2026-11-04",
+                           "reviewNote":  "Official site states 4 April 2027 and half-marathon/5K formats."
+                       },
+        "edition":  2027,
+        "name":  "Omagh Half Marathon \u0026 5K",
+        "practical":  {
+                          "elevation":  null,
+                          "cutoff":  null,
+                          "facilities":  null,
+                          "transport":  null
+                      },
+        "status":  "review",
+        "nation":  "Northern Ireland"
+    },
+    {
+        "source":  "https://www.devilothehighlandsfootrace.co.uk/",
+        "slug":  "devil-o-the-highlands",
+        "course":  {
+                       "distance":  "42 mile ultra",
+                       "terrain":  "trail"
+                   },
+        "provenance":  {
+                           "sourceTerms":  "conditional",
+                           "checkedAt":  "2026-11-04",
+                           "reviewNote":  "Official page states 24 April 2027 and a 42-mile trail format; parking copy needs clarification."
+                       },
+        "edition":  2027,
+        "name":  "Devil o the Highlands Footrace",
+        "practical":  {
+                          "elevation":  null,
+                          "cutoff":  null,
+                          "facilities":  null,
+                          "transport":  null
+                      },
+        "status":  "review",
+        "nation":  "Scotland"
+    }
+]
