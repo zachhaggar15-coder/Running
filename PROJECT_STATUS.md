@@ -67,8 +67,8 @@ Build an independent, privacy-conscious UK road, trail and ultra race reference 
 - Expansion slice: profile detail overlays now show verified fields, source links and unknowns; finder results include objective-specific context; directory cards expose profile inspection and comparison state.
 - Catalogue expansion: 20 static profile routes are generated from a structured JSON record model, including five newly researched official-organiser candidates. New pages are marked for review until source and edition checks are complete.
 - The interactive directory and finder now include all 20 catalogue candidates and link each card to its crawlable profile route.
+- Added six curated decision guides covering flat half marathons, first half marathons, trail ultras with cut-offs, travel information, Welsh trail races and Northern Ireland coverage. These guides link to profiles and state their evidence limits.
 - SEO foundation: profile pages include canonical URLs and Event JSON-LD; `app/sitemap.xml` and `app/robots.txt` are included.
 - Operations: maintenance states and a review queue are documented in [MAINTENANCE_WORKFLOW.md](research/MAINTENANCE_WORKFLOW.md).
 - Stage 2–5: search refinement, profile routes, formal data model, technical SEO, accessibility and browser testing remain in progress.
 - Deployment: not deployed. The repository is ready for the owner to connect to Vercel; no hosting configuration or paid service was created by this work.
-
