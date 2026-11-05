@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Race Fieldnotes race record",
+  "type": "object",
+  "required": ["slug", "name", "nation", "edition", "source", "status"],
+  "properties": {
+    "slug": {"type":"string"},
+    "name": {"type":"string"},
+    "nation": {"enum":["England","Scotland","Wales","Northern Ireland"]},
+    "edition": {"type":"integer"},
+    "source": {"type":"string","format":"uri"},
+    "status": {"enum":["confirmed","review","held","historical"]},
+    "course": {"type":"object","properties":{"distance":{"type":"string"},"terrain":{"type":"string"},"elevation":{"type":["string","null"]}}},
+    "practical": {"type":"object","properties":{"cutoff":{"type":["string","null"]},"transport":{"type":["string","null"]},"parking":{"type":["string","null"]},"facilities":{"type":["string","null"]}}},
+    "provenance": {"type":"object","properties":{"checkedAt":{"type":"string","format":"date"},"sourceTerms":{"type":"string"},"reviewNote":{"type":"string"}}}
+  }
+}
