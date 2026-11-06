@@ -13,7 +13,13 @@
     "reason": "A well-specified ultra with an explicit cut-off and aid plan.",
     "slug": "south-downs-way-50",
     "date": "2027 edition date not yet confirmed",
-    "checkedAt": "2026-11-05"
+    "checkedAt": "2026-11-05",
+    "image": {
+      "src": "/assets/races/south-downs-way-50.jpg",
+      "alt": "Runner on the rolling chalk downs above the Sussex coast near Eastbourne",
+      "caption": "Illustrative view of the South Downs near Eastbourne.",
+      "kind": "original editorial illustration"
+    }
   },
   {
     "name": "Maverick Peak District X-Trail",
@@ -29,7 +35,13 @@
     "reason": "Several trail distances suit a scenery-led day.",
     "slug": "maverick-peak-district-x-trail",
     "date": "2027 edition date not yet confirmed",
-    "checkedAt": "2026-11-05"
+    "checkedAt": "2026-11-05",
+    "image": {
+      "src": "/assets/races/maverick-peak-district-x-trail.jpg",
+      "alt": "Trail runner among gritstone, heather and dry-stone walls in the Peak District",
+      "caption": "Illustrative Peak District trail landscape near Bakewell.",
+      "kind": "original editorial illustration"
+    }
   },
   {
     "name": "Race to the Stones",
@@ -45,7 +57,13 @@
     "reason": "A point-to-point trail format with course-specific trade-offs.",
     "slug": "race-to-the-stones",
     "date": "2027 edition date not yet confirmed",
-    "checkedAt": "2026-11-05"
+    "checkedAt": "2026-11-05",
+    "image": {
+      "src": "/assets/races/race-to-the-stones.jpg",
+      "alt": "Runner on the Ridgeway approaching ancient stones in the Avebury landscape",
+      "caption": "Illustrative Ridgeway and Avebury landscape.",
+      "kind": "original editorial illustration"
+    }
   },
   {
     "name": "Richmond Park Half Marathon",
@@ -61,7 +79,13 @@
     "reason": "A park format with a published cut-off and practical facilities.",
     "slug": "richmond-park-half-marathon",
     "date": "2027 edition date not yet confirmed",
-    "checkedAt": "2026-11-05"
+    "checkedAt": "2026-11-05",
+    "image": {
+      "src": "/assets/races/richmond-park-half-marathon.jpg",
+      "alt": "Runner on a tree-lined road through Richmond Park at sunrise",
+      "caption": "Illustrative Richmond Park setting in London.",
+      "kind": "original editorial illustration"
+    }
   },
   {
     "name": "Great North Run",
@@ -77,7 +101,13 @@
     "reason": "Official travel guidance is available; check the edition timetable.",
     "slug": "great-north-run",
     "date": "2027 edition date not yet confirmed",
-    "checkedAt": "2026-11-05"
+    "checkedAt": "2026-11-05",
+    "image": {
+      "src": "/assets/races/great-north-run.jpg",
+      "alt": "Runner beside the River Tyne with the Tyne Bridge in Newcastle",
+      "caption": "Illustrative Newcastle Quayside and Tyne Bridge view.",
+      "kind": "original editorial illustration"
+    }
   },
   {
     "name": "Great South 5k",
@@ -93,7 +123,13 @@
     "reason": "A short road distance for a first event; timetable needs checking.",
     "slug": "great-south-5k",
     "date": "2027 edition date not yet confirmed",
-    "checkedAt": "2026-11-05"
+    "checkedAt": "2026-11-05",
+    "image": {
+      "src": "/assets/races/great-south-5k.jpg",
+      "alt": "Runner on Portsmouth seafront beside Southsea Castle",
+      "caption": "Illustrative Portsmouth and Southsea seafront view.",
+      "kind": "original editorial illustration"
+    }
   },
   {
     "name": "Alloa Half Marathon",
@@ -109,7 +145,13 @@
     "reason": "Rail and shuttle information support a no-car comparison.",
     "slug": "alloa-half-marathon",
     "date": "2027 edition date not yet confirmed",
-    "checkedAt": "2026-11-05"
+    "checkedAt": "2026-11-05",
+    "image": {
+      "src": "/assets/races/alloa-half-marathon.jpg",
+      "alt": "Runner on a quiet Alloa road with a historic tower and the Ochil Hills beyond",
+      "caption": "Illustrative Alloa and Ochil Hills setting.",
+      "kind": "original editorial illustration"
+    }
   },
   {
     "name": "Loch Ness Marathon",
@@ -125,7 +167,13 @@
     "reason": "Coach and baggage information support travel planning.",
     "slug": "loch-ness-marathon",
     "date": "2027 edition date not yet confirmed",
-    "checkedAt": "2026-11-05"
+    "checkedAt": "2026-11-05",
+    "image": {
+      "src": "/assets/races/loch-ness-marathon.jpg",
+      "alt": "Runner on a wooded road beside Loch Ness in the Scottish Highlands",
+      "caption": "Illustrative Loch Ness road landscape.",
+      "kind": "original editorial illustration"
+    }
   },
   {
     "name": "Inverness Half Marathon",
@@ -141,7 +189,13 @@
     "reason": "A published cut-off and clear facilities help first-timers.",
     "slug": "inverness-half-marathon",
     "date": "2027 edition date not yet confirmed",
-    "checkedAt": "2026-11-05"
+    "checkedAt": "2026-11-05",
+    "image": {
+      "src": "/assets/races/inverness-half-marathon.jpg",
+      "alt": "Runner on the River Ness path with Inverness Castle beyond",
+      "caption": "Illustrative Inverness riverside view.",
+      "kind": "original editorial illustration"
+    }
   },
   {
     "name": "Snowdonia Trail Ultra Eryri",
@@ -157,7 +211,13 @@
     "reason": "A redesigned mountain route makes the trade-offs visible.",
     "slug": "snowdonia-trail-ultra-eryri",
     "date": "2027 edition date not yet confirmed",
-    "checkedAt": "2026-11-05"
+    "checkedAt": "2026-11-05",
+    "image": {
+      "src": "/assets/races/snowdonia-trail-ultra-eryri.jpg",
+      "alt": "Mountain runner above Llanberis in the rugged Eryri landscape",
+      "caption": "Illustrative Eryri mountain landscape near Llanberis.",
+      "kind": "original editorial illustration"
+    }
   },
   {
     "name": "Beacons Way Ultra 100",
@@ -173,7 +233,13 @@
     "reason": "Published ascent and checkpoints suit experienced trail runners.",
     "slug": "beacons-way-ultra-100",
     "date": "2027 edition date not yet confirmed",
-    "checkedAt": "2026-11-05"
+    "checkedAt": "2026-11-05",
+    "image": {
+      "src": "/assets/races/beacons-way-ultra-100.jpg",
+      "alt": "Trail runner on a high ridge in Bannau Brycheiniog",
+      "caption": "Illustrative Bannau Brycheiniog ridge landscape.",
+      "kind": "original editorial illustration"
+    }
   },
   {
     "name": "Newport Marathon",
@@ -189,7 +255,13 @@
     "reason": "A current date and cut-off are available; travel needs checking.",
     "slug": "newport-marathon",
     "date": "2027 edition date not yet confirmed",
-    "checkedAt": "2026-11-05"
+    "checkedAt": "2026-11-05",
+    "image": {
+      "src": "/assets/races/newport-marathon.jpg",
+      "alt": "Runner on the River Usk waterfront beside Newport city footbridge",
+      "caption": "Illustrative Newport riverfront view.",
+      "kind": "original editorial illustration"
+    }
   },
   {
     "name": "Norn Iron 100 Half Marathon",
@@ -205,7 +277,13 @@
     "reason": "Waymarking and refill rules help an experienced trail runner.",
     "slug": "norn-iron-100-half-marathon",
     "date": "2027 edition date not yet confirmed",
-    "checkedAt": "2026-11-05"
+    "checkedAt": "2026-11-05",
+    "image": {
+      "src": "/assets/races/norn-iron-100-half-marathon.jpg",
+      "alt": "Trail runner on a stone lane through the green Sperrin foothills",
+      "caption": "Illustrative rural Northern Ireland trail landscape.",
+      "kind": "original editorial illustration"
+    }
   },
   {
     "name": "Cardiff Half Marathon",
@@ -221,7 +299,13 @@
     "reason": "A familiar road distance, but reviewed practical pages contain stale material.",
     "slug": "cardiff-half-marathon",
     "date": "2027 edition date not yet confirmed",
-    "checkedAt": "2026-11-05"
+    "checkedAt": "2026-11-05",
+    "image": {
+      "src": "/assets/races/cardiff-half-marathon.jpg",
+      "alt": "Runner passing Cardiff Castle and the city centre",
+      "caption": "Illustrative Cardiff city and castle view.",
+      "kind": "original editorial illustration"
+    }
   },
   {
     "name": "Porthcawl 10K",
@@ -237,7 +321,13 @@
     "reason": "A short road event with water and pacers; current FAQ needs checking.",
     "slug": "porthcawl-10k",
     "date": "2027 edition date not yet confirmed",
-    "checkedAt": "2026-11-05"
+    "checkedAt": "2026-11-05",
+    "image": {
+      "src": "/assets/races/porthcawl-10k.jpg",
+      "alt": "Runner on Porthcawl promenade beside the Grand Pavilion and sandy bay",
+      "caption": "Illustrative Porthcawl seafront view.",
+      "kind": "original editorial illustration"
+    }
   },
   {
     "name": "TCS London Marathon",
@@ -253,7 +343,13 @@
     "reason": "The official page publishes the 2027 date and a low elevation figure; practical details need further review.",
     "slug": "london-marathon",
     "date": "24–25 April 2027",
-    "checkedAt": "2026-11-05"
+    "checkedAt": "2026-11-05",
+    "image": {
+      "src": "/assets/races/london-marathon.jpg",
+      "alt": "Runner beside the Thames with Tower Bridge in central London",
+      "caption": "Illustrative central London and Tower Bridge view.",
+      "kind": "original editorial illustration"
+    }
   },
   {
     "name": "West Highland Way Race",
@@ -269,7 +365,13 @@
     "reason": "A major point-to-point trail ultra with 2027 ballot information; detailed practical fields are still under review.",
     "slug": "west-highland-way-race",
     "date": "2027 edition date not yet confirmed",
-    "checkedAt": "2026-11-05"
+    "checkedAt": "2026-11-05",
+    "image": {
+      "src": "/assets/races/west-highland-way-race.jpg",
+      "alt": "Ultrarunner on the West Highland Way beneath a prominent Glencoe mountain",
+      "caption": "Illustrative West Highland Way landscape near Glencoe.",
+      "kind": "original editorial illustration"
+    }
   },
   {
     "name": "Skyline Scotland by UTMB",
@@ -285,7 +387,13 @@
     "reason": "A new 2027 mountain event with multiple formats; each course must be reviewed separately.",
     "slug": "skyline-scotland-utmb",
     "date": "2027 edition date not yet confirmed",
-    "checkedAt": "2026-11-05"
+    "checkedAt": "2026-11-05",
+    "image": {
+      "src": "/assets/races/skyline-scotland-utmb.jpg",
+      "alt": "Mountain runner on the Nevis Range above Fort William",
+      "caption": "Illustrative Nevis Range mountain landscape.",
+      "kind": "original editorial illustration"
+    }
   },
   {
     "name": "Omagh Half Marathon & 5K",
@@ -301,7 +409,13 @@
     "reason": "The official site confirms the 2027 date and formats, while older route and FAQ material needs checking.",
     "slug": "omagh-half-marathon",
     "date": "4 April 2027",
-    "checkedAt": "2026-11-05"
+    "checkedAt": "2026-11-05",
+    "image": {
+      "src": "/assets/races/omagh-half-marathon.jpg",
+      "alt": "Runner beside the River Strule in the centre of Omagh",
+      "caption": "Illustrative Omagh riverside setting.",
+      "kind": "original editorial illustration"
+    }
   },
   {
     "name": "Devil o the Highlands Footrace",
@@ -317,6 +431,12 @@
     "reason": "A 42-mile trail ultra with a confirmed 2027 date; inconsistent parking copy keeps it in review.",
     "slug": "devil-o-the-highlands-footrace",
     "date": "24 April 2027",
-    "checkedAt": "2026-11-05"
+    "checkedAt": "2026-11-05",
+    "image": {
+      "src": "/assets/races/devil-o-the-highlands-footrace.jpg",
+      "alt": "Ultrarunner on a rocky Highland pass above Kinlochleven",
+      "caption": "Illustrative West Highland Way landscape near Kinlochleven.",
+      "kind": "original editorial illustration"
+    }
   }
 ]

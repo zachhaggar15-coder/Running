@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "/races/norn-iron-100-half/",
+      "destination": "/races/norn-iron-100-half-marathon/",
+      "permanent": true
+    },
+    {
+      "source": "/races/devil-o-the-highlands/",
+      "destination": "/races/devil-o-the-highlands-footrace/",
+      "permanent": true
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # Project status
 
-Updated: 4 November 2026 (Europe/London)
+Updated: 6 November 2026 (Europe/London)
 
 ## Agreed product direction from the brief
 
@@ -74,5 +74,6 @@ Build an independent, privacy-conscious UK road, trail and ultra race reference 
 - Search UX: added a visible hero search, rebound directory search listeners to the active renderer, and increased colour contrast across controls, cards and backgrounds.
 - Directory UX: added an explicit Search button beside the directory query field and date filtering. Every catalogue race now displays either a confirmed date or an explicit date-to-confirm state; no date is inferred.
 - Profile redesign: rebuilt all 20 profile pages from the live catalogue data with clean UTF-8 output, terrain-specific original imagery, practical fact grids, suitability explanations, verification checklists, source panels and responsive layouts.
+- Race-specific imagery: replaced the three repeated terrain headers with 20 unique, compressed editorial illustrations tied to each race location or nearby town. Every profile now includes descriptive alternative text, an explicit illustration disclaimer, a location caption and an image URL in both the structured catalogue and Event JSON-LD.
 - Stage 2–5: search refinement, profile routes, formal data model, technical SEO, accessibility and browser testing remain in progress.
 - Deployment: not deployed. The repository is ready for the owner to connect to Vercel; no hosting configuration or paid service was created by this work.
