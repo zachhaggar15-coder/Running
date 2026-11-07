@@ -57,4 +57,3 @@ At the time checked, [Vercel lists Hobby at $0/month for personal, non-commercia
 **Recommendation:** approve a narrow Stage B/pilot work package, not the full 200–300-profile build yet. The pilot should test whether source-backed practical profiles can be produced and kept current at reasonable effort, and whether the positioning remains distinctive against Race For You, RaceIndex and FindTrail. Then present pilot metrics, brand options, the final schema, page designs and a revised launch-size forecast for approval.
 
 **Owner decision requested:** approve or amend that pilot and Stage B direction. This does not authorise public deployment, paid services, bulk import, a final brand or a reduced launch target. If the pilot cannot support 200–300 quality profiles, return with the verified achievable number and a specific scope decision.
-

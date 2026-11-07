@@ -1,6 +1,14 @@
 # Project status
 
-Updated: 6 November 2026 (Europe/London)
+Updated: 7 November 2026 (Europe/London)
+
+## Current publication checkpoint
+
+- A 100-race catalogue across England, Scotland, Wales and Northern Ireland is built locally. Each record has an individual static profile URL, an official-source link, a current-edition date or an explicit date status, and a unique original illustration or image.
+- Sixty-four individually researched race records were added to the previous 36. Generated profile pages and the sitemap have been rebuilt for all 100.
+- This is a catalogue expansion, not evidence that every profile is comprehensive: some organiser pages do not publish numerical elevation, cut-offs, travel or facilities. Unknowns remain explicit, and older records still need a focused refresh.
+- The 1–2-hour monthly owner-workload target remains unproven at 100 races. No automated organiser scraping, paid service, contact with organisers or Gmail access was used.
+- The owner explicitly authorised GitHub publication and connected the repository to Vercel. This checkpoint supersedes the older deployment-boundary notes below.
 
 ## Agreed product direction from the brief
 

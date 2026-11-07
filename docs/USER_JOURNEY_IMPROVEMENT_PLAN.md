@@ -1,4 +1,3 @@
-Attempting to perform the InitializeDefaultDrives operation on the 'FileSystem' provider failed.
 # User journey improvement plan
 
 Updated: 5 November 2026
@@ -165,4 +164,3 @@ The product should not be considered differentiated merely because it has filter
 - Never index thin filter combinations.
 - Never store unnecessary personal search or training data.
 - Keep source, edition and course boundaries visible.
-

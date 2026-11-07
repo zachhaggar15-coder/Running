@@ -13,6 +13,5 @@ The starting brief calls for researched, source-linked profiles of road, trail a
 - [Preliminary Stage B concepts](research/STAGE_B_PRELIMINARY.md)
 - [Race Fieldnotes prototype](app/README.md)
 - [Project status and decisions](PROJECT_STATUS.md)
-- [User journey improvement plan](docs/USER_JOURNEY_IMPROVEMENT_PLAN.md)
 
 The pilot contains 30 research records. The first working product slice is in `app/`: a suitability finder, searchable directory and three-race comparison using 15 provisional-minimum records. It is not publicly deployed; connect the repository to Vercel for a preview. The 200–300 profile target remains an expansion ambition conditional on quality, lawful sourcing and a sustainable maintenance workload.
