@@ -1,0 +1,82 @@
+{
+  "hundred-hills-50km": {
+    "angle": "Two 25km loops return runners to Stonor Park halfway, which makes crew planning simpler than on a point-to-point 50km. The route is still a substantial trail effort: the organiser lists about 1,200m of ascent and a nine-hour overall limit.",
+    "tradeoff": "Use the five aid stations and halfway return when planning supplies. Confirm the current qualification and mandatory-kit rules before entering; a looped format does not make the climbing or trail surface easier."
+  },
+  "thames-path-100": {
+    "angle": "The published 560m ascent is low for 100 miles, but the 30-hour limit includes intermediate aid-station deadlines. The route runs from Richmond towards Oxford, so start travel and finish collection are separate decisions.",
+    "tradeoff": "A Richmond station arrival may help at the start; it does not solve the Oxford finish journey. The organiser flags possible 2027 bridge diversions, so check the final route and the required prior 50-mile result before committing."
+  },
+  "north-downs-way-50": {
+    "angle": "This is an approximately 80% trail journey from Farnham to Knockholt Pound, with 5,600ft of published ascent. The 13-hour overall limit also has intermediate cut-offs, so the climb figure matters more than distance alone.",
+    "tradeoff": "Race HQ and trailhead are different locations around Farnham, while collection parking is near the finish. Plan those handoffs explicitly and check the organiser's marathon qualification condition."
+  },
+  "south-downs-way-100": {
+    "angle": "The 100-mile route crosses the South Downs from Matterley Estate to Eastbourne. With 3,800m ascent, an 05:30 start and a 30-hour limit, arrival and overnight pacing are central planning questions.",
+    "tradeoff": "Twelve aid stations provide support, but the race is point-to-point. Arrange a finish plan independently and check the 100-mile qualification and kit list on the official race page."
+  },
+  "south-downs-way-50km": {
+    "angle": "This 50km option uses the South Downs Way for most of its course and has a published 1,150m ascent and nine-hour limit. It is a separate decision from the same event's shorter evening races.",
+    "tradeoff": "The start at Matterley Bowl and finish at Queen Elizabeth Country Park are apart. Compare travel arrangements and the four aid stations before treating it as a simple out-and-back day."
+  },
+  "autumn-100": {
+    "angle": "Four Thames Path and Ridgeway spurs return to Goring, giving this 100-mile race a central hub rather than a distant finish. The published figures are 1,500m ascent and 28 hours, with intermediate cut-offs.",
+    "tradeoff": "Repeated returns to Goring may help crew coordination, but 100-mile qualification and the 28-hour clock still govern suitability. Check village access, parking and the organiser's precise aid-station deadlines."
+  },
+  "carsington-water-trail-april": {
+    "angle": "The two distances do not share a start: the half marathon leaves the visitor centre at 09:30, while the 10km starts at Millfields at 10:00. Millfields is about 1.3 miles from the shared finish.",
+    "tradeoff": "Choose parking for the distance actually entered, and budget for paid parking. The organiser publishes 200m ascent for the half; do not transfer that figure to the 10km, whose gain and cut-off remain unconfirmed here."
+  },
+  "wimbledon-common-half-10k": {
+    "angle": "Gravel and tarmac combine on an undulating common course. The published 60m ascent applies to the 10km only; the half-marathon ascent is not established in this record.",
+    "tradeoff": "There is no on-site parking at the playing-field start. The organiser also excludes dogs and says the terrain is unsuitable for buggies and wheelchairs, so this is a poor match if either is essential."
+  },
+  "newcastle-half-10k-july": {
+    "angle": "Both distances start and finish at Kingston Park Stadium, with Metro stops nearby. The course uses closed roads and undulating country lanes around Dinnington.",
+    "tradeoff": "The stadium car-park exit is closed from 08:00 to 12:00. Public transport may avoid that constraint; drivers should check the final road-closure plan and race-pack instructions."
+  },
+  "newbury-racecourse-august": {
+    "angle": "A tarmac racecourse circuit makes this a different proposition from a road race that merely starts at a racecourse. The organiser lists 30m ascent for the half marathon, while the 10km has water at roughly 2.5, 5.5 and 7.5km.",
+    "tradeoff": "The station serves the venue and competitor parking is in Car Park 4. Check which distance's start time applies: the half is listed at 09:30, the 10km and 5km at 10:30."
+  },
+  "manchester-liverpool-ultra-50": {
+    "angle": "The published 123m ascent is modest for a 50-mile ultra, but it is a point-to-point day from Imperial War Museum North to Liverpool with a 06:00 start and 20:00 finish deadline.",
+    "tradeoff": "Plan the journey home from a different city. The organiser requires a prior marathon finish and tracker, and does not allow crew access at checkpoint two; check the six-checkpoint schedule before relying on outside support."
+  },
+  "ultra-wales-50": {
+    "angle": "This 51-mile mountain and forest race includes Cadair Idris and an organiser figure of 2,898m ascent that is marked provisional. Its 20-hour limit should be considered alongside mountain conditions, not in isolation.",
+    "tradeoff": "The 06:00 start is at Coed-y-Brenin Visitor Centre, but the finish transfer still needs confirmation. Entry requires age 20 or over, a previous organised marathon finish and a tracker."
+  },
+  "ultra-scotland-100": {
+    "angle": "The Southern Upland Way course reaches Galashiels after terrain including Lowther Hill and Minch Moor. The organiser lists 4,611m ascent and 38 hours for this 100-mile point-to-point race.",
+    "tradeoff": "Arrange a Galashiels finish transfer before entering, and verify the final start time at St John's Town of Dalry. A prior marathon-distance race is an entry requirement."
+  },
+  "queen-elizabeth-olympic-park-february": {
+    "angle": "The 5km and 10km use smooth marked laps in Olympic North Park and share a 09:30 start. The organiser welcomes wheelchair and buggy runners, which is a meaningful distinction from several trail events in the catalogue.",
+    "tradeoff": "Stratford rail links offer a travel option; Westfield parking is paid. The elevation and race cut-off are unconfirmed here, so do not infer a personal-best course from the surface alone."
+  },
+  "mens-10k-glasgow": {
+    "angle": "This point-to-point 10km links the Riverside Museum with Glasgow Green via central landmarks. The official 90-minute limit and 09:30 start make the morning journey important.",
+    "tradeoff": "The Sunday subway starts too late to serve the race start, and there is no Riverside Museum parking. Partick rail is about half a mile away; check the final drop-off and baggage instructions."
+  },
+  "wrexham-half-marathon": {
+    "angle": "The closed-road half marathon starts at Queensway Stadium and has a three-hour limit tied to road reopening. Water is listed about every 5km, with toilets in the village and near halfway.",
+    "tradeoff": "There is no event parking at the stadium; city-centre parking is around a 15-minute walk away. Leave enough time for that approach and check the final start time and 2027 course map."
+  },
+  "newmarket-half-marathon": {
+    "angle": "The Rowley Mile start may suggest a flat racecourse run, but the route moves onto undulating country roads and has a published 210m ascent. The limit is three hours.",
+    "tradeoff": "Free racecourse parking helps arrival, while road closures shape departure. Check the final route and timing if a flat personal-best attempt is your main reason for entering."
+  },
+  "swindon-half-marathon": {
+    "angle": "The route heads through Wanborough, Badbury and Medbourne before a downhill finish. Its 170m published ascent means the final descent should not be mistaken for an entirely flat half marathon.",
+    "tradeoff": "The free Polo Ground parking is about ten minutes' walk from the start; Coate Water parking has restrictions and charges. The three-hour road-closure limit is a practical entry check."
+  },
+  "rugby-half-marathon": {
+    "angle": "This half combines Rugby streets, country roads and a disused railway nature reserve. The published three-hour limit is tied to the road-closure plan.",
+    "tradeoff": "Rugby station is about 1.6 miles from the Hart Field start; the limited Rugby Town FC parking is also a walk away. Build that travel time into a 09:00 start rather than treating the station as race HQ."
+  },
+  "east-yorkshire-half-10k": {
+    "angle": "The closed-road countryside loop runs through West Newton and New Ellerby. A 30m ascent figure is published for the 10km, while the half-marathon gain remains unconfirmed in this record.",
+    "tradeoff": "The half starts at 09:00 and the 10km at 09:45 from Burton Constable Hall. Check distance-specific route and parking directions before assuming the 10km elevation describes the half."
+  }
+}

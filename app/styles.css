@@ -8,3 +8,5 @@
 .toolbar{grid-template-columns:2fr 1fr 1fr auto}.directory-search-button{align-self:end;white-space:nowrap;margin-bottom:0}.toolbar input{margin-top:7px}
 @media(max-width:800px){.toolbar{grid-template-columns:1fr}.directory-search-button{width:100%}}
 .toolbar{grid-template-columns:2fr auto 1fr 1fr 1fr}
+
+.crawlable-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin:22px 0}.crawlable-grid a{display:block;padding:18px;border:1px solid #849088;background:#fff;color:#07140f;text-decoration:none}.crawlable-grid strong,.crawlable-grid span{display:block}.crawlable-grid span{color:#415148;font-size:.85rem;margin-top:6px}.crawlable-grid a:hover{border-color:#a9361c;box-shadow:0 3px 0 #a9361c}@media(max-width:760px){.crawlable-grid{grid-template-columns:1fr}}

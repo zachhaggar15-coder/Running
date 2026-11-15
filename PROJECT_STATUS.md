@@ -1,6 +1,14 @@
 # Project status
 
-Updated: 7 November 2026 (Europe/London)
+Updated: 15 November 2026 (Europe/London)
+
+## Search visibility checkpoint, 15 November 2026
+
+- Search Console for the verified `https://www.racedaycompare.company/` URL-prefix property shows the sitemap last read on 14 November with **Success** and 107 discovered pages. The separate domain property remains unverified.
+- The Page indexing aggregate was last updated 9 November and showed one indexed URL and two marked “Crawled — currently not indexed.” Its examples were Thames Path 100 and South Downs Way 5km. A live inspection of Thames Path 100 on 15 November instead reports **Page is indexed**, demonstrating that the aggregate is lagging.
+- The same inspection showed successful Googlebot smartphone fetch and allowed indexing. It also exposed a non-`www` user-declared canonical, inconsistent with the verified `www` property and sitemap.
+- Implemented a static 100-race directory, homepage HTML links, profile-to-profile and profile-to-guide links, `www` canonical URLs, 20 original race-specific decision notes, and revised six decision guides. These changes are intended to improve discovery and usefulness; they do not guarantee impressions.
+- The paid GSC Wizard connector is unavailable because its trial ended. Search Console was checked directly without subscribing, buying services or accessing Gmail.
 
 ## Current publication checkpoint
 
