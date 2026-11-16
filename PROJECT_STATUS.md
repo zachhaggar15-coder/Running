@@ -1,6 +1,13 @@
 # Project status
 
-Updated: 15 November 2026 (Europe/London)
+Updated: 16 November 2026 (Europe/London)
+
+## Content quality update, 16 November 2026
+
+- Refreshed 18 of the 20 thinner legacy profiles against current official organiser pages. Added edition dates where confirmed, course and start details, cut-offs, facilities, transport constraints and eligibility rules where available. Each refreshed page links to its supporting organiser detail page and shows the 16 November review date.
+- The 80 newer profiles retain their previously researched practical sections. All 100 profiles are regenerated from the same structured data, with missing values labelled rather than inferred. The new review data is kept in `app/data/verified-updates.json` so it can be rechecked without editing generated HTML.
+- Great North Run and Great South 5K were held from this refresh because the source compliance register marks Great Run website content as restricted for reuse. Their existing listings remain; this update does not claim a fresh verification of them.
+- No source was scraped in bulk, no organiser was contacted, no Gmail access or paid service was used. The remaining gaps are mainly numerical elevation, cut-offs and precise travel details; those require source-specific review, not generic filler.
 
 ## Search visibility checkpoint, 15 November 2026
 

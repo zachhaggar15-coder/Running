@@ -1,5 +1,5 @@
-# Race Fieldnotes prototype
+# Race Fieldnotes site
 
-This static prototype tests the revised proposition: **find the race that suits you**. It uses the 15 pilot races that met the provisional factual minimum. Suitability logic is deliberately simple: distance and surface filter records, objective-specific context is shown transparently, and profile overlays expose verified fields, source links and explicit unknowns. It does not infer elevation, transport feasibility, predicted time or course difficulty.
+The static site contains 100 source-linked UK race profiles, a searchable directory, six decision guides and a sitemap. Race records live in `data/races.json` and `data/race-expansion.json`; individually reviewed updates to older records live in `data/verified-updates.json`. `scripts/rebuild-profiles.js` regenerates the profile HTML, catalogue data, directory and sitemap.
 
-Open `index.html` locally or connect this repository to Vercel. No database, paid service or external runtime is required for this first product slice.
+Missing race facts remain labelled as unconfirmed. Organiser pages are linked for entry and final race-day instructions. The illustrations are original editorial artwork, not official course photographs.

@@ -1,0 +1,167 @@
+{
+  "south-downs-way-50": {
+    "course": "From Hillbarn Recreation Ground in Worthing, joining the South Downs Way before Chanctonbury Ring and finishing in Eastbourne.",
+    "start": "Registration at Worthing College; start at adjacent Hillbarn Recreation Ground, BN14 9QF.",
+    "rules": "A previous organised marathon-distance finish within its limit is required. Intermediate aid-station cut-offs apply.",
+    "transport": "Free start parking. The finish-to-start shuttle must be booked separately.",
+    "facilities": "Start toilets, water and changing; finish showers and hot food; seven aid stations including the finish.",
+    "researchSource": "https://www.centurionrunning.com/races/south-downs-way-50-2027/section/faqs"
+  },
+  "loch-ness-marathon": {
+    "cutoff": "7 hours; finish closes at 17:00",
+    "course": "Point-to-point from moorland between Fort Augustus and Whitebridge, along Loch Ness through Foyers, then into Inverness; a climb around mile 17 interrupts the net downhill profile.",
+    "start": "10:00 remote start. Organiser coaches depart Inverness Ice Centre from 07:30 to 07:50; arrive between 07:00 and 07:30.",
+    "rules": "Collect the race pack on Saturday 25 September at Bught Park with photo ID. There is no private or spectator vehicle access to the start.",
+    "transport": "Organiser coach from Inverness Ice Centre is included and does not need pre-booking. Other lochside pickups require advance booking; finish is in Inverness.",
+    "facilities": "Start-to-finish baggage transfer; seven water and four gel stations on the course.",
+    "researchSource": "https://caledoniangroupevents.co.uk/loch-ness-marathon/event/loch-ness-marathon"
+  },
+  "inverness-half-marathon": {
+    "course": "Road half marathon starting on Bught Road and finishing by the Bught Park event village; water at miles 3, 6, 9 and 11.5.",
+    "start": "Bught Road, IV3 5SS at 10:30; event village information desk opens at 08:30.",
+    "rules": "Minimum age 17. Road sections begin reopening after 12:30; runners may be guided onto the pavement.",
+    "transport": "Limited parking at Inverness Leisure and council car parks; do not park at Inverness Ice Centre or on the route.",
+    "facilities": "Four on-course water stations plus finish water; posted UK race packs and an event village information desk.",
+    "researchSource": "https://caledoniangroupevents.co.uk/index.php/inverness-half-marathon/event-info/faqs"
+  },
+  "london-marathon": {
+    "cutoff": "Saturday finish closes 17:30; Sunday secondary finish closes 23:59:59",
+    "course": "From Greenwich and Blackheath via Cutty Sark, central London and the Thames to The Mall; the same route is planned on both 2027 days.",
+    "start": "Greenwich/Blackheath. Saturday is expected to start about 09:00 and Sunday about 09:30; individual wave times will be issued later.",
+    "rules": "2027 Saturday and Sunday allocations cannot be exchanged. Saturday finish closes at 17:30; the Sunday secondary finish closes at 23:59:59.",
+    "transport": "Multiple start areas at Greenwich/Blackheath and a central London finish; use your assigned start and wave travel instructions.",
+    "facilities": "Course toilets, drinks and pacers are described by the organiser; the final 2027 station layout is still to be issued.",
+    "researchSource": "https://www.londonmarathonevents.co.uk/london-marathon/2027-tcs-london-marathon-double-faqs"
+  },
+  "west-highland-way-race": {
+    "cutoff": "35 hours, with strict intermediate checkpoint cut-offs",
+    "date": "19 June 2027",
+    "dateISO": "2027-06-19",
+    "dateMonth": "June",
+    "course": "Approximately 95 miles point-to-point along the West Highland Way from Milngavie to Fort William via Balmaha, Tyndrum, Glencoe and Kinlochleven.",
+    "start": "01:00 from Milngavie railway station car park after late-evening registration and briefing.",
+    "rules": "2027 qualification requires at least 90 miles across no more than two eligible off-road ultras. Final 2027 rules are due in May.",
+    "transport": "Point-to-point Milngavie to Fort William; support crew and return travel need advance planning.",
+    "researchSource": "https://westhighlandwayrace.com/runner-guidance/"
+  },
+  "devil-o-the-highlands-footrace": {
+    "cutoff": "12 hours, with intermediate checkpoint cut-offs",
+    "course": "42-mile point-to-point West Highland Way trail from Tyndrum to Fort William via Glencoe and Kinlochleven; approximately 1,981m of ascent.",
+    "start": "06:00 from Tyndrum on 24 April 2027; early and previous-evening registration are listed.",
+    "rules": "Carry a waterproof jacket, emergency foil blanket and charged phone. Four checkpoints and a 12-hour limit; check final cut-off rules.",
+    "transport": "Bookable Fort William-to-Tyndrum and return buses have limited capacity. Long-stay Tyndrum parking is restricted.",
+    "facilities": "Four checkpoints, two checkpoint food drop bags, finish-bag transfer and finish showers.",
+    "researchSource": "https://www.devilothehighlandsfootrace.co.uk/event-information"
+  },
+  "cardiff-half-marathon": {
+    "date": "3 October 2027",
+    "dateISO": "2027-10-03",
+    "dateMonth": "October",
+    "course": "Closed-road Cardiff city-centre half marathon with a Castle Street start; consult the organiser map for the current route and water stations.",
+    "start": "Castle Street from 10:00, with colour-coded starting pens and staggered waves.",
+    "rules": "The 2027 general-entry ballot has closed; charity and other organiser-listed routes may remain. Do not swap race numbers.",
+    "transport": "Central Cardiff road closures affect arrival; check the organiser travel and parking plan.",
+    "facilities": "Bag drop on Museum Avenue from 08:30 for one labelled small backpack; toilets at the event village, start and water stations.",
+    "researchSource": "https://www.cardiffhalfmarathon.co.uk/get-race-ready-fast/race-info/"
+  },
+  "omagh-half-marathon": {
+    "course": "Half marathon and 5K routes from Omagh Leisure Complex; verify the distance-specific map before travel.",
+    "start": "Omagh Leisure Complex; distance-specific assembly and start times to confirm.",
+    "rules": "Check 2027 runner instructions for age limits, timing and collection arrangements.",
+    "transport": "Start and finish at Omagh Leisure Complex; check local access and parking notices.",
+    "researchSource": "https://omaghhalfmarathon.run/"
+  },
+  "maverick-peak-district-x-trail": {
+    "distance": "55km / 41km / 28km / 10km / 6km",
+    "elevation": "By route: 1,214m / 992m / 600m / 271m / 111m gain",
+    "course": "Five marked Peak District routes from Bakewell Showground over moorland, gritstone edges, woodland trails and river valleys.",
+    "start": "Bakewell Showground, DE45 1AH; 55km and marathon at 08:00, 28km at 09:00, shorter routes at 10:00.",
+    "rules": "The 55km has a strict 10-hour limit and intermediate outpost deadlines. Race packs are collected on event morning; no dogs are allowed.",
+    "facilities": "Longer routes have outposts for food and water; the 10km and 6km have no outpost. Bring a refillable cup or bottle.",
+    "researchSource": "https://www.maverick-race.com/products/the-maverick-peak-district-trail-run-2027"
+  },
+  "race-to-the-stones": {
+    "course": "The Ridgeway routes offer 50km and 100km choices, with approximately 1,350m of gain on the full 100km. The 50km variants cover different halves of the course.",
+    "start": "Distance-specific start points and times differ; use the 2027 route page and eventual participant guide before travel.",
+    "rules": "Choose the 50km variant and non-stop or two-day 100km format before comparing cut-offs and travel. The organiser marks the route.",
+    "transport": "Point-to-point options require a finish plan; organiser shuttles can be booked separately.",
+    "researchSource": "https://www.thresholdtrailseries.com/race-to-the-stones/the-route/"
+  },
+  "alloa-half-marathon": {
+    "course": "13.1-mile road race through Alloa and the Hillfoots; 2027 traffic arrangements remain subject to final approval.",
+    "start": "Alloa start and finish; final registration and start timings are due in the race instructions.",
+    "rules": "Follow the final 2027 race instructions for timing, access and road closures.",
+    "researchSource": "https://alloahalfmarathon.co.uk/faqs/"
+  },
+  "richmond-park-half-marathon": {
+    "course": "Four laps on marked trail paths, pavement and grass within Richmond Park; rolling hills mean the repeated climbs matter.",
+    "start": "Sheen Gate, Richmond TW10 5HT; half marathon at 09:30 and 10K at 10:10.",
+    "rules": "Minimum age 17 for the half. No formal cut-off, but the organiser asks runners expecting over three hours to arrange course support.",
+    "facilities": "Bag drop, chip timing, finish refreshments and race photos are listed by the organiser.",
+    "researchSource": "https://www.runthrough.co.uk/event/richmond-park-half-marathon-august-2027"
+  },
+  "snowdonia-trail-ultra-eryri": {
+    "cutoff": "11 hours 30 minutes, with staged course cut-offs",
+    "date": "11 July 2027",
+    "dateISO": "2027-07-11",
+    "dateMonth": "July",
+    "distance": "56.6km ultra",
+    "elevation": "Approximately 2,300m ascent",
+    "course": "Mountain route from Llanberis up toward Yr Wyddfa, through remote trails and the Dinorwig slate landscape, finishing in Llanberis.",
+    "start": "Usually 05:00 from Llanberis; the confirmed time and registration arrangements will appear in final instructions.",
+    "rules": "Minimum age 20, mandatory mountain kit and staged cut-offs; late arrivals at two course splits are diverted to the marathon route.",
+    "researchSource": "https://alwaysaimhighevents.com/events/snowdonia-trail-marathon-eryri/snowdonia-trail-ultra-marathon-eryri"
+  },
+  "beacons-way-ultra-100": {
+    "cutoff": "40 hours, with strict checkpoint cut-offs",
+    "date": "24 July 2027",
+    "dateISO": "2027-07-24",
+    "dateMonth": "July",
+    "elevation": "6,143m ascent",
+    "course": "Approximately 100 miles across Bannau Brycheiniog from Abergavenny Castle to Llangadog, via the Black Mountains, Pen-y-Fan and Carmarthen Fans.",
+    "start": "06:00 from Abergavenny Castle, NP7 5EE; registration and mandatory tracker collection precede the start.",
+    "rules": "Minimum age 20; prior organised 50-mile ultra and mountain experience required. Self-navigation with map and compass is expected.",
+    "transport": "Point-to-point finish at Llangadog RFC. Optional organiser return transport is available; plan crew and finish collection.",
+    "facilities": "Ten checkpoints with food and drink, medical support and live GPS tracking.",
+    "researchSource": "https://www.gbultras.com/beacons-way-ultra-100/"
+  },
+  "newport-marathon": {
+    "cutoff": "6 hours",
+    "date": "18 April 2027",
+    "dateISO": "2027-04-18",
+    "dateMonth": "April",
+    "course": "Fully closed-road marathon starting and finishing on Newport's riverfront; check the current route map for detailed turns.",
+    "start": "Usk Way near the University of South Wales; marathon start listed at 09:00, event information opens at 07:00.",
+    "rules": "General marathon entries are sold out; organiser-listed charity and bundle places may remain. Follow the 2027 participant guide for pen and timing rules.",
+    "transport": "Central riverfront start and finish; plan for city-centre road closures and use the organiser travel guidance.",
+    "researchSource": "https://newportwalesmarathon.co.uk/faqs/"
+  },
+  "norn-iron-100-half-marathon": {
+    "date": "29 May 2027",
+    "dateISO": "2027-05-29",
+    "dateMonth": "May",
+    "course": "Point-to-point North Coast Ulster Way from Ballintoy to Portballintrae, passing the Giant's Causeway area.",
+    "start": "08:00 at Ballintoy; organiser bus from Portballintrae has a time still to be confirmed.",
+    "rules": "Follow existing Ulster Way markers; no extra signs or course marshals except at the water refill point. Download the organiser GPX.",
+    "transport": "Finish and bus pickup at Portballintrae; confirm the bus departure before arranging travel to Ballintoy.",
+    "facilities": "Medical cover and post-race snack; a mid-route water refill point supplies no bottles or cups.",
+    "researchSource": "https://werunwildni.com/norn-iron-100-half-marathon-2027.html"
+  },
+  "porthcawl-10k": {
+    "date": "27 June 2027",
+    "dateISO": "2027-06-27",
+    "dateMonth": "June",
+    "course": "Closed-road seaside 10K via Rest Bay, Trecco Bay, Coney Bay and the town centre, starting from Porthcawl Esplanade.",
+    "start": "10:00 on Porthcawl Esplanade; junior races follow from 12:15.",
+    "rules": "Race number with embedded timing chip is posted before the event. Buggies are restricted to the Fun Run.",
+    "transport": "Pre-bookable town parking has limited capacity; allow for road closures and follow event signage from M4 junction 37.",
+    "facilities": "Bag storage on The Portway, on-course water, pacers and an event village.",
+    "researchSource": "https://www.porthcawl10k.co.uk/event-information/"
+  },
+  "skyline-scotland-utmb": {
+    "course": "Mountain trail race formats around the Nevis Range; 2027 distances and final GPX routes are still to be confirmed.",
+    "start": "Event programme is scheduled for September 2027; exact race starts and registration depend on format.",
+    "rules": "The organiser says details of 2027 formats and registration are pending. Do not rely on previous-edition routes or kit lists.",
+    "researchSource": "https://skylinescotland.utmb.world/skyline-scotland-by-utmb-2027"
+  }
+}

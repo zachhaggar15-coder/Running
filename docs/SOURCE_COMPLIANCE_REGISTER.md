@@ -1,5 +1,9 @@
 # Initial source compliance register
 
+## 16 November 2026 refresh
+
+Eighteen legacy race profiles were individually checked against their official organiser event or FAQ pages. Only independently written factual summaries were added. The exact supporting URL is stored with each update in `app/data/verified-updates.json`; no descriptions, photographs, maps or GPX files were copied. This check does not authorise automated recurring collection. Great North Run and Great South 5K updates were held because Great Run's published terms remain the restricted case described below.
+
 Checked 4 November 2026. This is an operational screening record, not a legal opinion or a grant of reuse rights. Re-check the exact source terms before any importer or recurring fetch is implemented.
 
 | Source class | Proposed use | Status | Condition / next check |
