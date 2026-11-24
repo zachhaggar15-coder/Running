@@ -1,6 +1,7 @@
 const fs=require('fs');
 const path=require('path');
-const races=[...require('../app/data/races.json'),...require('../app/data/race-expansion.json')];
+const dataDir=path.resolve(__dirname,'../app/data');
+const races=[...require('../app/data/races.json'),...fs.readdirSync(dataDir).filter(name=>/^race-expansion(?:-\d+)?\.json$/.test(name)).sort((a,b)=>a.localeCompare(b,undefined,{numeric:true})).flatMap(name=>JSON.parse(fs.readFileSync(path.join(dataDir,name),'utf8')))];
 const out=path.resolve(__dirname,'../app/assets/races');
 const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const hash=s=>[...s].reduce((h,c)=>(Math.imul(h,31)+c.charCodeAt(0))>>>0,2166136261);

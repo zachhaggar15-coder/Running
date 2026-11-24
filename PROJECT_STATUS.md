@@ -1,6 +1,13 @@
 # Project status
 
-Updated: 16 November 2026 (Europe/London)
+Updated: 24 November 2026 (Europe/London)
+
+## Current content checkpoint, 24 November 2026
+
+- The local site now builds 200 distinct race profiles from 36 original records and 164 expansion records. All 200 have unique slugs and official organiser URLs; the generated directory and sitemap have been rebuilt.
+- New expansion entries include practical, event-specific details such as start waves, course surface or laps, cut-offs, age rules, transport, parking and water provision when the organiser publishes them. Material contradictions in organiser pages are called out for a final-guide check.
+- Two records for the same Hillsborough Castle event, two for the same Everton 10K, and a second Hampton Court half-marathon record were removed during duplicate review. The source URLs are now unique across the 200 records.
+- The older dated checkpoints below describe the site at those earlier times; their 100-race counts are historical.
 
 ## Content quality update, 16 November 2026
 
