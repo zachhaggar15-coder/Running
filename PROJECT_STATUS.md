@@ -1,8 +1,12 @@
 # Project status
 
-Updated: 24 November 2026 (Europe/London)
+Updated: 25 November 2026 (Europe/London)
 
-## Current content checkpoint, 24 November 2026
+## 25 November 2026: 400-profile expansion
+
+The working site now contains 400 unique source-linked profiles, including 200 additions from RunThrough, Wild Deer Events and Ultra Challenge pages. The organiser event pages were reviewed for dates, formats, routes and practical decisions. All 120 new RunThrough source pages returned HTTP 200 during the final audit; the remaining new source URLs also returned HTTP 200 when checked. Distinct editions of recurring races are listed separately, with their own date and organiser URL. Unknown details remain visible rather than inferred. The directory, catalogue, illustrations and sitemap have been rebuilt for the larger set. Older dated notes below describe earlier site states.
+
+## Historical content checkpoint, 24 November 2026
 
 - The local site now builds 200 distinct race profiles from 36 original records and 164 expansion records. All 200 have unique slugs and official organiser URLs; the generated directory and sitemap have been rebuilt.
 - New expansion entries include practical, event-specific details such as start waves, course surface or laps, cut-offs, age rules, transport, parking and water provision when the organiser publishes them. Material contradictions in organiser pages are called out for a final-guide check.
@@ -108,4 +112,4 @@ Build an independent, privacy-conscious UK road, trail and ultra race reference 
 - On 6 November, began a source-by-source content revision for the requested 100-race catalogue. Six existing profiles now carry more specific course or logistical facts, and eleven have 2027 dates surfaced in the directory where official sources establish them. This is progress on the research, not completion of the 100-race request.
 - The owner prohibited organiser contact, Gmail access and paid services. No organiser messages or purchases were made. Expansion must use individual public-source research and rights-safe imagery without bulk extraction from restricted calendars.
 - Stage 2–5: search refinement, profile routes, formal data model, technical SEO, accessibility and browser testing remain in progress.
-- Deployment: not deployed. The repository is ready for the owner to connect to Vercel; no hosting configuration or paid service was created by this work.
+- Deployment: not deployed. The repository is ready for the owner to connect to Vercel; no hosting configuration or paid service was created by this work.\n
