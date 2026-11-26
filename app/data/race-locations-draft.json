@@ -1,0 +1,2186 @@
+{
+  "south-downs-way-50": {
+    "lat": 50.81795,
+    "lon": -0.37538,
+    "label": "Worthing",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "race-to-the-stones": {
+    "lat": 51.65733,
+    "lon": -0.09184,
+    "label": "The Ridgeway",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "richmond-park-half-marathon": {
+    "lat": 51.44269,
+    "lon": -0.28371,
+    "label": "Richmond Park",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "great-north-run": {
+    "lat": 54.21804,
+    "lon": -5.88979,
+    "label": "Newcastle",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "great-south-5k": {
+    "lat": 50.79899,
+    "lon": -1.09125,
+    "label": "Portsmouth",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "alloa-half-marathon": {
+    "lat": 56.11586,
+    "lon": -3.78997,
+    "label": "Alloa",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "loch-ness-marathon": {
+    "lat": 57.47908,
+    "lon": -4.22398,
+    "label": "Inverness",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "newport-marathon": {
+    "lat": 51.58774,
+    "lon": -2.99835,
+    "label": "Newport",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "cardiff-half-marathon": {
+    "lat": 51.48,
+    "lon": -3.18,
+    "label": "Cardiff",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "porthcawl-10k": {
+    "lat": 51.47903,
+    "lon": -3.70362,
+    "label": "Porthcawl",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "london-marathon": {
+    "lat": 51.50853,
+    "lon": -0.12574,
+    "label": "London",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "west-highland-way-race": {
+    "lat": 55.94071,
+    "lon": -4.32311,
+    "label": "Milngavie",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "omagh-half-marathon": {
+    "lat": 54.6,
+    "lon": -7.3,
+    "label": "Omagh",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "pennine-barrier-ultra-50": {
+    "lat": 54.06191,
+    "lon": -2.15259,
+    "label": "Malham",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "maverick-new-forest-gravel": {
+    "lat": 52.68512,
+    "lon": -0.69609,
+    "label": "Burley",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "maverick-exmoor-x-trail": {
+    "lat": 51.22968,
+    "lon": -3.84131,
+    "label": "Lynton",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "maverick-cotswolds-trail": {
+    "lat": 51.94734,
+    "lon": -1.95615,
+    "label": "Sudeley Castle",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "ogwen-25": {
+    "lat": 53.1,
+    "lon": -3.91667,
+    "label": "Capel Curig",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "maverick-west-sussex-trail": {
+    "lat": 50.90658,
+    "lon": -0.5352,
+    "label": "Amberley",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "maverick-east-sussex-trail": {
+    "lat": 50.82838,
+    "lon": -0.13947,
+    "label": "Brighton",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "brighton-trail-marathon": {
+    "lat": 50.82838,
+    "lon": -0.13947,
+    "label": "Brighton",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "maverick-north-downs-trail": {
+    "lat": 51.14209,
+    "lon": -0.48374,
+    "label": "Cranleigh",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "maverick-chilterns-trail": {
+    "lat": 51.72549,
+    "lon": -0.83144,
+    "label": "Princes Risborough",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "maverick-south-downs-trail": {
+    "lat": 51.05819,
+    "lon": -1.2854,
+    "label": "Hampshire",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "delamere-forest-april": {
+    "lat": 53.23333,
+    "lon": -2.68333,
+    "label": "Delamere Forest",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "delamere-forest-november": {
+    "lat": 53.23333,
+    "lon": -2.68333,
+    "label": "Delamere Forest",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "chasewater-trail-october": {
+    "lat": 52.8577,
+    "lon": -2.03686,
+    "label": "Staffordshire",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "running-gp-croft-november": {
+    "lat": 54.1977,
+    "lon": -1.39387,
+    "label": "North Yorkshire",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "run-aintree-october": {
+    "lat": 53.4765,
+    "lon": -2.94652,
+    "label": "Aintree Racecourse",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "run-aintree-may": {
+    "lat": 53.4765,
+    "lon": -2.94652,
+    "label": "Aintree Racecourse",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "run-aintree-july": {
+    "lat": 53.4765,
+    "lon": -2.94652,
+    "label": "Aintree Racecourse",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "chepstow-running-festival-august": {
+    "lat": 51.6564,
+    "lon": -2.6886,
+    "label": "Chepstow Racecourse",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "middlesbrough-half": {
+    "lat": 54.57623,
+    "lon": -1.23483,
+    "label": "Middlesbrough",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "goodwood-running-gp-february": {
+    "lat": 50.95585,
+    "lon": -0.49465,
+    "label": "West Sussex",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "chester-marathon": {
+    "lat": 53.1864,
+    "lon": -2.8997,
+    "label": "Chester Racecourse",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "battersea-running-festival-october": {
+    "lat": 51.47926,
+    "lon": -0.15649,
+    "label": "Battersea Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "cheshire-autumn-half": {
+    "lat": 53.25,
+    "lon": -2.23333,
+    "label": "Capesthorne Hall",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "running-gp-oulton-november": {
+    "lat": 51.51762,
+    "lon": -0.12848,
+    "label": "Cheshire",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "birmingham-festival-may": {
+    "lat": 52.56667,
+    "lon": -1.83333,
+    "label": "Sutton Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "birmingham-festival-december": {
+    "lat": 52.56667,
+    "lon": -1.83333,
+    "label": "Sutton Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "north-lincolnshire-half-2027": {
+    "lat": 53.57905,
+    "lon": -0.65437,
+    "label": "Scunthorpe",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "northampton-5k-10k-2027": {
+    "lat": 52.25,
+    "lon": -0.88333,
+    "label": "Northampton",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "regents-park-april-2027": {
+    "lat": 51.53075,
+    "lon": -0.15415,
+    "label": "Regent’s Park",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "twycross-zoo-10k-2027": {
+    "lat": 52.30064,
+    "lon": -1.55955,
+    "label": "Warwickshire",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "peterborough-festival-2027": {
+    "lat": 52.55909,
+    "lon": -0.30229,
+    "label": "Ferry Meadows",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "hemel-hempstead-2027": {
+    "lat": 51.75368,
+    "lon": -0.44975,
+    "label": "Hemel Hempstead",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "run-redditch-2027": {
+    "lat": 52.3065,
+    "lon": -1.94569,
+    "label": "Redditch",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "kettering-half-2027": {
+    "lat": 52.39836,
+    "lon": -0.72571,
+    "label": "Kettering",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "drayton-manor-2027": {
+    "lat": 52.63399,
+    "lon": -1.69587,
+    "label": "Tamworth",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "leicestershire-half-2027": {
+    "lat": 52.76667,
+    "lon": -1.2,
+    "label": "Loughborough",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "milton-keynes-festival-2027": {
+    "lat": 52.04172,
+    "lon": -0.75583,
+    "label": "Milton Keynes",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "wolverhampton-10k-2027": {
+    "lat": 52.59084,
+    "lon": -2.13087,
+    "label": "Molineux Stadium",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "hampton-court-10k-march-2027": {
+    "lat": 51.40309,
+    "lon": -0.33697,
+    "label": "Hampton Court Palace",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "windsor-trail-january-2027": {
+    "lat": 51.48333,
+    "lon": -0.6,
+    "label": "Windsor",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "windsor-trail-august-2027": {
+    "lat": 51.48333,
+    "lon": -0.6,
+    "label": "Windsor",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "finsbury-park-november-2027": {
+    "lat": 51.56929,
+    "lon": -0.10691,
+    "label": "Finsbury Park",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "run-southampton-october-2027": {
+    "lat": 50.9059,
+    "lon": -1.39093,
+    "label": "St Mary's Stadium",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "frome-festival-2027": {
+    "lat": 55.11667,
+    "lon": -6.68333,
+    "label": "Somerset",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "henley-river-september-2027": {
+    "lat": 51.53333,
+    "lon": -0.9,
+    "label": "Henley-on-Thames",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "goodwood-gp-october-2027": {
+    "lat": 50.83673,
+    "lon": -0.78003,
+    "label": "Chichester",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "goodwood-gp-december-2027": {
+    "lat": 50.83673,
+    "lon": -0.78003,
+    "label": "Chichester",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "cotswold-airport-2027": {
+    "lat": 51.66915,
+    "lon": -2.04835,
+    "label": "Cotswold Airport",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "thorpe-park-2027": {
+    "lat": 51.38812,
+    "lon": -0.50782,
+    "label": "Chertsey",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "colchester-zoo-2027": {
+    "lat": 51.86392,
+    "lon": 0.83131,
+    "label": "Colchester Zoo",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "run-gatwick-2027": {
+    "lat": 51.11303,
+    "lon": -0.18312,
+    "label": "Crawley",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "leeds-festival-august-2027": {
+    "lat": 53.79648,
+    "lon": -1.54785,
+    "label": "Leeds",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "run-tatton-half-november-2027": {
+    "lat": 53.33333,
+    "lon": -2.36667,
+    "label": "Tatton Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "essar-chester-half-2027": {
+    "lat": 53.1864,
+    "lon": -2.8997,
+    "label": "Chester Racecourse",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "newcastle-town-moor-march-2027": {
+    "lat": 54.21804,
+    "lon": -5.88979,
+    "label": "Newcastle",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "battersea-january-2027": {
+    "lat": 51.47926,
+    "lon": -0.15649,
+    "label": "Battersea Park",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "tatton-january-2027": {
+    "lat": 53.33333,
+    "lon": -2.36667,
+    "label": "Tatton Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "finsbury-park-january-2027": {
+    "lat": 51.50853,
+    "lon": -0.12574,
+    "label": "London",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "victoria-park-january-2027": {
+    "lat": 51.53838,
+    "lon": -0.03669,
+    "label": "Victoria Park",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "battersea-february-2027": {
+    "lat": 51.47926,
+    "lon": -0.15649,
+    "label": "Battersea Park",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "carsington-water-february-2027": {
+    "lat": 53.13543,
+    "lon": -1.61125,
+    "label": "Derbyshire",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "victoria-park-february-2027": {
+    "lat": 51.53838,
+    "lon": -0.03669,
+    "label": "Victoria Park",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "richmond-park-february-2027": {
+    "lat": 51.44269,
+    "lon": -0.28371,
+    "label": "Richmond Park",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "wendover-woods-50": {
+    "lat": 53.31667,
+    "lon": -2.7,
+    "label": "Halton",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "kensington-10k": {
+    "lat": 51.50853,
+    "lon": -0.12574,
+    "label": "London",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "gloucester-half-10k": {
+    "lat": 51.85929,
+    "lon": -2.24417,
+    "label": "Gloucester Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "victoria-park-spring-festival": {
+    "lat": 51.53838,
+    "lon": -0.03669,
+    "label": "Victoria Park",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "battersea-park-spring-festival": {
+    "lat": 51.47926,
+    "lon": -0.15649,
+    "label": "Battersea Park",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "richmond-park-march-2027": {
+    "lat": 51.44269,
+    "lon": -0.28371,
+    "label": "Richmond Park",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "victoria-park-march-2027": {
+    "lat": 51.53838,
+    "lon": -0.03669,
+    "label": "Victoria Park",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "chase-moon-battersea-march-2027": {
+    "lat": 51.50853,
+    "lon": -0.12574,
+    "label": "London",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "heaton-park-march-2027": {
+    "lat": 53.53333,
+    "lon": -2.26667,
+    "label": "Heaton Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "morpeth-10k-2027": {
+    "lat": 55.24253,
+    "lon": -2.06535,
+    "label": "Northumberland",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "lee-valley-velopark-june-2027": {
+    "lat": 51.50853,
+    "lon": -0.12574,
+    "label": "London",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "chase-sun-victoria-july-2027": {
+    "lat": 51.53838,
+    "lon": -0.03669,
+    "label": "Victoria Park",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "womens-run-manchester-2027": {
+    "lat": 53.48771,
+    "lon": -2.29042,
+    "label": "Salford",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "womens-run-battersea-2027": {
+    "lat": 51.47926,
+    "lon": -0.15649,
+    "label": "Battersea Park",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "bath-50-challenge-2027": {
+    "lat": 51.4183,
+    "lon": -2.4094,
+    "label": "Bath Racecourse",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "windsor-50-challenge-2027": {
+    "lat": 51.4905,
+    "lon": -0.6313,
+    "label": "Windsor Racecourse",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "isle-of-wight-challenge-2027": {
+    "lat": 50.59561,
+    "lon": -1.31836,
+    "label": "Chale",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "jurassic-coast-challenge-2027": {
+    "lat": 50.63947,
+    "lon": -2.05672,
+    "label": "Corfe Castle",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "london-2-brighton-challenge-2027": {
+    "lat": 51.46171,
+    "lon": -0.30633,
+    "label": "Richmond",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "north-norfolk-50-challenge-2027": {
+    "lat": 52.93123,
+    "lon": 1.29892,
+    "label": "Cromer",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "peak-district-challenge-2027": {
+    "lat": 53.21338,
+    "lon": -1.67481,
+    "label": "Bakewell",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "gower-peninsula-challenge-2027": {
+    "lat": 51.57528,
+    "lon": -4.17021,
+    "label": "Penrice Castle",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "south-west-coast-50-challenge-2027": {
+    "lat": 51.18238,
+    "lon": -3.44608,
+    "label": "Dunster",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "north-downs-50-challenge-2027": {
+    "lat": 51.23536,
+    "lon": -0.57427,
+    "label": "Guildford",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "borders-challenge-2027": {
+    "lat": 55.76868,
+    "lon": -2.00537,
+    "label": "Berwick-Upon-Tweed",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "thames-path-challenge-2027": {
+    "lat": 51.46716,
+    "lon": -0.21277,
+    "label": "Putney Bridge",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "shropshire-hills-50-challenge-2027": {
+    "lat": 52.44308,
+    "lon": -2.83562,
+    "label": "Craven Arms",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "chiltern-50-challenge-2027": {
+    "lat": 51.53333,
+    "lon": -0.9,
+    "label": "Henley-on-Thames",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "kent-downs-50-challenge-2027": {
+    "lat": 51.26667,
+    "lon": 0.51667,
+    "label": "Maidstone",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "gibside-new-year-trail-runs-2027": {
+    "lat": 54.96209,
+    "lon": -1.60168,
+    "label": "Gateshead",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "harewood-house-new-year-trail-runs-2027": {
+    "lat": 53.79648,
+    "lon": -1.54785,
+    "label": "Leeds",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "salcey-forest-new-year-trail-runs-2027": {
+    "lat": 52.25,
+    "lon": -0.88333,
+    "label": "Northampton",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "druridge-bay-beach-trail-runs-2027": {
+    "lat": 55.24253,
+    "lon": -2.06535,
+    "label": "Northumberland",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "bristol-wild-new-year-trail-runs-2027": {
+    "lat": 51.48812,
+    "lon": -2.52973,
+    "label": "Oldbury Court Estate",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "rivington-wild-trail-runs-2027": {
+    "lat": 53.84331,
+    "lon": -2.63001,
+    "label": "Lancashire",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "alnwick-castle-trail-runs-2027": {
+    "lat": 55.41318,
+    "lon": -1.70563,
+    "label": "Alnwick",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "fountains-abbey-wild-trail-runs-2027": {
+    "lat": 54.10764,
+    "lon": -1.58809,
+    "label": "Fountains Abbey",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "forest-of-dean-wild-trail-runs-2027": {
+    "lat": 51.78333,
+    "lon": -2.55,
+    "label": "Forest of Dean",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "tatton-park-wild-trail-runs-2027": {
+    "lat": 53.33333,
+    "lon": -2.36667,
+    "label": "Tatton Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "culzean-castle-trail-runs-2027": {
+    "lat": 55.3547,
+    "lon": -4.78931,
+    "label": "Culzean Castle",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "kingdom-of-northumbria-coastal-ultra-2027": {
+    "lat": 55.60652,
+    "lon": -1.71704,
+    "label": "Bamburgh",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "grasmere-wild-trail-runs-2027": {
+    "lat": 54.57676,
+    "lon": -2.91157,
+    "label": "Cumbria",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "bramham-park-yorkshire-trail-runs-2027": {
+    "lat": 53.92836,
+    "lon": -1.38672,
+    "label": "Wetherby",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "scone-palace-trail-runs-2027": {
+    "lat": 56.4,
+    "lon": -3.43333,
+    "label": "Scone Palace",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "bamburgh-castle-wild-trail-10k-2027": {
+    "lat": 55.60652,
+    "lon": -1.71704,
+    "label": "Bamburgh",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "clumber-park-wild-trail-runs-2027": {
+    "lat": 53.30182,
+    "lon": -1.12404,
+    "label": "Worksop",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "whinlatter-forest-trail-runs-2027": {
+    "lat": 54.57676,
+    "lon": -2.91157,
+    "label": "Cumbria",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "moors-valley-wild-trail-runs-2027": {
+    "lat": 50.80249,
+    "lon": -2.3045,
+    "label": "Dorset",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "gibside-evening-wild-trail-runs-2027": {
+    "lat": 54.96209,
+    "lon": -1.60168,
+    "label": "Gateshead",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "the-devil-dalby-forest-trail-ultra-2027": {
+    "lat": 54.26397,
+    "lon": -0.69325,
+    "label": "Dalby Forest",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "the-derwent-60k-trail-ultra-2027": {
+    "lat": 53.41667,
+    "lon": -1.75,
+    "label": "Derwent Reservoir",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "derwent-reservoir-runs-2027": {
+    "lat": 53.41667,
+    "lon": -1.75,
+    "label": "Derwent Reservoir",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "margam-park-wild-trail-runs-2027": {
+    "lat": 51.59241,
+    "lon": -3.78019,
+    "label": "Port Talbot",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "the-priory-100k-ultra-2027": {
+    "lat": 55.60652,
+    "lon": -1.71704,
+    "label": "Bamburgh",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "beyond-london-trail-runs-2027": {
+    "lat": 51.491,
+    "lon": 0.0648,
+    "label": "Woolwich",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "pooley-bridge-wild-trail-runs-2027": {
+    "lat": 54.61085,
+    "lon": -2.81525,
+    "label": "Pooley Bridge",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "wentworth-castle-gardens-evening-trail-runs-2027": {
+    "lat": 53.55,
+    "lon": -1.48333,
+    "label": "Barnsley",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "chopwell-woods-summer-trail-runs-2027": {
+    "lat": 54.96209,
+    "lon": -1.60168,
+    "label": "Gateshead",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "alice-holt-forest-wild-trail-runs-2027": {
+    "lat": 51.24787,
+    "lon": -0.4206,
+    "label": "Surrey",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "souter-lighthouse-summer-trail-runs-2027": {
+    "lat": 54.97048,
+    "lon": -1.36412,
+    "label": "Souter Lighthouse",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "sheffield-urban-trail-runs-2027": {
+    "lat": 53.38297,
+    "lon": -1.4659,
+    "label": "Sheffield",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "falkirk-callendar-house-trail-runs-2027": {
+    "lat": 55.99286,
+    "lon": -3.77021,
+    "label": "Callendar Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "beyond-manchester-trail-runs-2027": {
+    "lat": 53.48095,
+    "lon": -2.23743,
+    "label": "Manchester",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "raby-castle-trail-runs-2027": {
+    "lat": 54.59116,
+    "lon": -1.80313,
+    "label": "Raby Castle",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "hadrian-s-wall-trail-marathon-2027": {
+    "lat": 54.99327,
+    "lon": -2.44429,
+    "label": "Hadrian's Wall",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "hadrian-s-wall-half-marathon-run-2027": {
+    "lat": 54.96986,
+    "lon": -2.104,
+    "label": "Hexham",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "slaley-hall-and-forest-trail-runs-2027": {
+    "lat": 54.96986,
+    "lon": -2.104,
+    "label": "Hexham",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "crystal-palace-park-5k-10k-and-half-marathon-november-2026-20261129": {
+    "lat": 51.41934,
+    "lon": -0.07854,
+    "label": "Crystal Palace",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "battersleigh-5k-10k-half-marathon-december-2026-20261212": {
+    "lat": 51.47926,
+    "lon": -0.15649,
+    "label": "Battersea Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "tatton-park-5k-10k-december-2026-20261212": {
+    "lat": 53.33333,
+    "lon": -2.36667,
+    "label": "Tatton Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "victoria-park-half-marathon-10k-5k-presented-by-palmer-s-december-2026-20261212": {
+    "lat": 50.79898,
+    "lon": -1.09401,
+    "label": "Victoria Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "richmond-park-half-marathon-december-2026-20261213": {
+    "lat": 51.44269,
+    "lon": -0.28371,
+    "label": "Richmond Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "run-aintree-half-marathon-10k-5k-december-2026-20261213": {
+    "lat": 53.47538,
+    "lon": -2.95202,
+    "label": "Aintree",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "chase-the-moon-battersea-park-5k-10k-december-2026-20261216": {
+    "lat": 51.47926,
+    "lon": -0.15649,
+    "label": "Battersea Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "regent-s-park-5k-10k-december-2026-20261219": {
+    "lat": 51.53075,
+    "lon": -0.15415,
+    "label": "Regent’s Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "wimbledon-common-trail-5k-10k-christmas-run-december-2026-20261220": {
+    "lat": 51.43665,
+    "lon": -0.23355,
+    "label": "Wimbledon Common",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "hyde-park-5k-10k-february-2027-20270206": {
+    "lat": 51.50735,
+    "lon": -0.16571,
+    "label": "Hyde Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "stanley-park-10k-half-marathon-february-2027-20270227": {
+    "lat": 53.4354,
+    "lon": -2.9632,
+    "label": "Stanley Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "hyde-park-5k-10k-march-2027-20270306": {
+    "lat": 51.50735,
+    "lon": -0.16571,
+    "label": "Hyde Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "battersea-park-5k-10k-half-marathon-april-2027-20270403": {
+    "lat": 51.47926,
+    "lon": -0.15649,
+    "label": "Battersea Park",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "finsbury-park-5k-10k-half-marathon-junior-run-april-2027-20270411": {
+    "lat": 51.56929,
+    "lon": -0.10691,
+    "label": "Finsbury Park",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "chase-the-sun-battersea-park-5k-10k-april-2027-20270421": {
+    "lat": 51.47926,
+    "lon": -0.15649,
+    "label": "Battersea Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "chase-the-sun-hyde-park-5k-10k-april-2027-20270428": {
+    "lat": 51.50735,
+    "lon": -0.16571,
+    "label": "Hyde Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "victoria-park-half-marathon-10k-5k-may-2027-20270501": {
+    "lat": 50.79898,
+    "lon": -1.09401,
+    "label": "Victoria Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "crystal-palace-5k-10k-half-marathon-juniors-may-2027-20270502": {
+    "lat": 51.41934,
+    "lon": -0.07854,
+    "label": "Crystal Palace",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "run-heaton-park-5k-10k-half-marathon-junior-race-may-2027-20270502": {
+    "lat": 53.53333,
+    "lon": -2.26667,
+    "label": "Heaton Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "battersea-park-5k-10k-half-marathon-may-2027-20270508": {
+    "lat": 51.47926,
+    "lon": -0.15649,
+    "label": "Battersea Park",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "chase-the-sun-battersea-park-5k-10k-may-2027-20270519": {
+    "lat": 51.47926,
+    "lon": -0.15649,
+    "label": "Battersea Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "hyde-park-5k-10k-may-2027-20270522": {
+    "lat": 51.50735,
+    "lon": -0.16571,
+    "label": "Hyde Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "hyde-park-5k-10k-june-2027-20270605": {
+    "lat": 51.50735,
+    "lon": -0.16571,
+    "label": "Hyde Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "chase-the-sun-battersea-park-5k-10k-june-2027-20270616": {
+    "lat": 51.47926,
+    "lon": -0.15649,
+    "label": "Battersea Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "greenwich-park-5k-10k-juniors-june-2027-20270619": {
+    "lat": 51.47663,
+    "lon": 0.00225,
+    "label": "Greenwich Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "stanley-park-10k-half-marathon-june-2027-20270619": {
+    "lat": 53.4354,
+    "lon": -2.9632,
+    "label": "Stanley Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "finsbury-park-5k-10k-half-marathon-junior-run-june-2027-20270620": {
+    "lat": 51.56929,
+    "lon": -0.10691,
+    "label": "Finsbury Park",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "richmond-park-half-marathon-june-2027-20270627": {
+    "lat": 51.44269,
+    "lon": -0.28371,
+    "label": "Richmond Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "battersea-park-5k-10k-half-marathon-17th-july-2027-20270717": {
+    "lat": 51.47926,
+    "lon": -0.15649,
+    "label": "Battersea Park",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "chase-the-sun-battersea-park-5k-10k-july-2027-20270728": {
+    "lat": 51.47926,
+    "lon": -0.15649,
+    "label": "Battersea Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "victoria-park-half-marathon-10k-5k-july-2027-20270731": {
+    "lat": 50.79898,
+    "lon": -1.09401,
+    "label": "Victoria Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "tatton-park-5k-10k-august-2027-20270807": {
+    "lat": 53.33333,
+    "lon": -2.36667,
+    "label": "Tatton Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "battersea-park-5k-10k-half-marathon-august-2027-20270808": {
+    "lat": 51.47926,
+    "lon": -0.15649,
+    "label": "Battersea Park",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "chase-the-sun-battersea-park-5k-10k-august-2027-20270818": {
+    "lat": 51.47926,
+    "lon": -0.15649,
+    "label": "Battersea Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "regent-s-park-5k-10k-august-2027-20270829": {
+    "lat": 51.53075,
+    "lon": -0.15415,
+    "label": "Regent’s Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "chase-the-sun-battersea-park-5k-10k-september-2027-20270908": {
+    "lat": 51.47926,
+    "lon": -0.15649,
+    "label": "Battersea Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "tatton-park-5k-10k-september-2027-20270911": {
+    "lat": 53.33333,
+    "lon": -2.36667,
+    "label": "Tatton Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "hyde-park-5k-10k-september-2027-20270918": {
+    "lat": 51.50735,
+    "lon": -0.16571,
+    "label": "Hyde Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "richmond-park-half-marathon-september-2027-20270919": {
+    "lat": 51.44269,
+    "lon": -0.28371,
+    "label": "Richmond Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "greenwich-park-5k-10k-juniors-september-2027-20270926": {
+    "lat": 51.47663,
+    "lon": 0.00225,
+    "label": "Greenwich Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "chase-the-moon-battersea-park-5k-10k-october-2027-20271006": {
+    "lat": 51.47926,
+    "lon": -0.15649,
+    "label": "Battersea Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "tatton-park-5k-10k-october-2027-20271009": {
+    "lat": 53.33333,
+    "lon": -2.36667,
+    "label": "Tatton Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "victoria-park-half-marathon-10k-5k-october-2027-20271009": {
+    "lat": 50.79898,
+    "lon": -1.09401,
+    "label": "Victoria Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "run-heaton-park-5k-10k-half-marathon-junior-race-october-2027-20271017": {
+    "lat": 53.53333,
+    "lon": -2.26667,
+    "label": "Heaton Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "richmond-park-half-marathon-october-2027-20271031": {
+    "lat": 51.44269,
+    "lon": -0.28371,
+    "label": "Richmond Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "greenwich-park-5k-10k-juniors-november-2027-20271106": {
+    "lat": 51.47663,
+    "lon": 0.00225,
+    "label": "Greenwich Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "tatton-park-5k-10k-november-2027-20271106": {
+    "lat": 53.33333,
+    "lon": -2.36667,
+    "label": "Tatton Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "richmond-park-half-marathon-november-2027-20271114": {
+    "lat": 51.44269,
+    "lon": -0.28371,
+    "label": "Richmond Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "chase-the-moon-battersea-park-5k-10k-november-2027-20271117": {
+    "lat": 51.47926,
+    "lon": -0.15649,
+    "label": "Battersea Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "battersea-park-5k-10k-half-marathon-november-2027-20271120": {
+    "lat": 51.47926,
+    "lon": -0.15649,
+    "label": "Battersea Park",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "battersea-park-5k-10k-half-marathon-december-2027-20271204": {
+    "lat": 51.47926,
+    "lon": -0.15649,
+    "label": "Battersea Park",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "crystal-palace-5k-10k-half-marathon-juniors-december-2027-20271205": {
+    "lat": 51.41934,
+    "lon": -0.07854,
+    "label": "Crystal Palace",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "tatton-park-5k-10k-december-2027-20271211": {
+    "lat": 53.33333,
+    "lon": -2.36667,
+    "label": "Tatton Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "victoria-park-half-marathon-10k-5k-december-2027-20271211": {
+    "lat": 50.79898,
+    "lon": -1.09401,
+    "label": "Victoria Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "richmond-park-half-marathon-december-2027-20271212": {
+    "lat": 51.44269,
+    "lon": -0.28371,
+    "label": "Richmond Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "run-heaton-park-5k-10k-half-marathon-junior-race-december-2027-20271212": {
+    "lat": 53.53333,
+    "lon": -2.26667,
+    "label": "Heaton Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "chase-the-moon-battersea-park-5k-10k-december-2027-20271215": {
+    "lat": 51.47926,
+    "lon": -0.15649,
+    "label": "Battersea Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "run-aintree-half-marathon-10k-5k-december-2027-20271219": {
+    "lat": 53.47538,
+    "lon": -2.95202,
+    "label": "Aintree",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "wimbledon-common-trail-5k-10k-christmas-run-december-2027-20271219": {
+    "lat": 51.43665,
+    "lon": -0.23355,
+    "label": "Wimbledon Common",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "blackburn-10k-december-2026-20261206": {
+    "lat": 53.7286,
+    "lon": -2.4898,
+    "label": "Ewood Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "surrey-half-marathon-5k-junior-race-march-2027-20270321": {
+    "lat": 51.31903,
+    "lon": -0.55893,
+    "label": "Woking",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "holkham-half-marathon-10k-may-2027-20270516": {
+    "lat": 52.94939,
+    "lon": 0.80728,
+    "label": "Holkham Hall",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "barnet-fc-5k-10k-20270606": {
+    "lat": 51.50853,
+    "lon": -0.12574,
+    "label": "London",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "newark-half-marathon-junior-race-august-2027-20270815": {
+    "lat": 53.06667,
+    "lon": -0.81667,
+    "label": "Newark on Trent",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "cheshire-autumn-half-marathon-20270912": {
+    "lat": 53.23333,
+    "lon": -2.23333,
+    "label": "Siddington",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "mansfield-10k-september-2027-20270912": {
+    "lat": 54.46974,
+    "lon": -1.19292,
+    "label": "Market Place",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "ladybower-reservoir-20270918": {
+    "lat": 53.38333,
+    "lon": -1.71667,
+    "label": "Ladybower Reservoir",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "alton-towers-saturday-2027": {
+    "lat": 52.8577,
+    "lon": -2.03686,
+    "label": "Staffordshire",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "carlisle-racecourse-half-2027": {
+    "lat": 54.86108,
+    "lon": -2.93329,
+    "label": "Carlisle Racecourse",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "derby-running-festival-2027": {
+    "lat": 53.13543,
+    "lon": -1.61125,
+    "label": "Derbyshire",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "fulham-10k-2027": {
+    "lat": 51.48026,
+    "lon": -0.1993,
+    "label": "Fulham",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "northwich-10k-2027": {
+    "lat": 53.25882,
+    "lon": -2.52025,
+    "label": "Northwich",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "southport-seaside-10k-2027": {
+    "lat": 53.39026,
+    "lon": -2.95541,
+    "label": "Princes Park",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "washington-village-10k-2027": {
+    "lat": 54.91667,
+    "lon": -1.56667,
+    "label": "Tyne and Wear",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "west-cheshire-ten-2027": {
+    "lat": 53.1905,
+    "lon": -2.89189,
+    "label": "Chester",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "weybridge-half-10k-5k-2027": {
+    "lat": 51.38678,
+    "lon": -0.41319,
+    "label": "Walton-on-Thames",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "wirral-running-festival-2027": {
+    "lat": 53.1806,
+    "lon": -3.119,
+    "label": "New Brighton",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "stoke-10k": {
+    "lat": 53.00415,
+    "lon": -2.18538,
+    "label": "Stoke-on-Trent",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "chase-the-moon-olympic-park-march": {
+    "lat": 51.50853,
+    "lon": -0.12574,
+    "label": "London",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "regents-park-march": {
+    "lat": 51.53075,
+    "lon": -0.15415,
+    "label": "Regent’s Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "lee-valley-velopark-april": {
+    "lat": 51.50853,
+    "lon": -0.12574,
+    "label": "London",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "running-gp-croft-april": {
+    "lat": 54.1977,
+    "lon": -1.39387,
+    "label": "North Yorkshire",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "quayside-5k-spring": {
+    "lat": 54.96209,
+    "lon": -1.60168,
+    "label": "Gateshead",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "run-media-city-april": {
+    "lat": 53.48771,
+    "lon": -2.29042,
+    "label": "Salford",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "chepstow-running-festival-january": {
+    "lat": 51.6564,
+    "lon": -2.6886,
+    "label": "Chepstow Racecourse",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "lake-district-running-festival": {
+    "lat": 54.57676,
+    "lon": -2.91157,
+    "label": "Cumbria",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "cheltenham-running-festival": {
+    "lat": 51.92027,
+    "lon": -2.05776,
+    "label": "Cheltenham Racecourse",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "dartford-half-10k": {
+    "lat": 51.44657,
+    "lon": 0.21423,
+    "label": "Dartford",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "crystal-palace-festival-january": {
+    "lat": 51.50853,
+    "lon": -0.12574,
+    "label": "London",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "crewe-10k": {
+    "lat": 53.09787,
+    "lon": -2.44161,
+    "label": "Crewe",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "the-fox-trail": {
+    "lat": 51.1858,
+    "lon": -0.61489,
+    "label": "Godalming",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "south-downs-trail-august": {
+    "lat": 51.05819,
+    "lon": -1.2854,
+    "label": "Hampshire",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "running-gp-bedford-august": {
+    "lat": 52.0,
+    "lon": -0.5,
+    "label": "Bedfordshire",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "running-gp-oulton-august": {
+    "lat": 51.51762,
+    "lon": -0.12848,
+    "label": "Cheshire",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "draycote-water-may": {
+    "lat": 52.30064,
+    "lon": -1.55955,
+    "label": "Warwickshire",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "hampton-court-palace-10k-may": {
+    "lat": 51.40309,
+    "lon": -0.33697,
+    "label": "Hampton Court Palace",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "tatton-park-july": {
+    "lat": 53.33333,
+    "lon": -2.36667,
+    "label": "Tatton Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "cheshire-10k-may": {
+    "lat": 53.30289,
+    "lon": -2.37482,
+    "label": "Knutsford",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "burnley-10k": {
+    "lat": 53.789,
+    "lon": -2.23025,
+    "label": "Turf Moor",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "everton-10k-october": {
+    "lat": 53.41058,
+    "lon": -2.97794,
+    "label": "Liverpool",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "nantwich-half-december": {
+    "lat": 51.51762,
+    "lon": -0.12848,
+    "label": "Cheshire",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "sunderland-10k-november": {
+    "lat": 54.90465,
+    "lon": -1.38222,
+    "label": "Sunderland",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "jarrow-10k-october": {
+    "lat": 54.98036,
+    "lon": -1.48423,
+    "label": "Jarrow",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "guildford-5k-10k": {
+    "lat": 51.24787,
+    "lon": -0.4206,
+    "label": "Surrey",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "wrexham-10k-september": {
+    "lat": 53.04664,
+    "lon": -2.99132,
+    "label": "Wrexham",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "run-aintree-january": {
+    "lat": 53.4765,
+    "lon": -2.94652,
+    "label": "Aintree Racecourse",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "run-dorney-january": {
+    "lat": 51.5,
+    "lon": -1.25,
+    "label": "Berkshire",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "run-heaton-park-january": {
+    "lat": 53.53333,
+    "lon": -2.26667,
+    "label": "Heaton Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "shakespeare-marathon-half": {
+    "lat": 52.19166,
+    "lon": -1.70734,
+    "label": "Stratford-upon-Avon",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "brixton-festival-july": {
+    "lat": 51.45202,
+    "lon": -0.10194,
+    "label": "Brockwell Park",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "clapham-common-september": {
+    "lat": 51.45629,
+    "lon": -0.13968,
+    "label": "Clapham Common",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "battersea-park-september": {
+    "lat": 51.47926,
+    "lon": -0.15649,
+    "label": "Battersea Park",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "ogwen-15k": {
+    "lat": 53.1,
+    "lon": -3.91667,
+    "label": "Capel Curig",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "ogwen-40k": {
+    "lat": 53.1,
+    "lon": -3.91667,
+    "label": "Capel Curig",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "trail-10k-eryri": {
+    "lat": 53.11809,
+    "lon": -4.12923,
+    "label": "Llanberis",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "brecon-beacons-trails": {
+    "lat": 52.23852,
+    "lon": -3.36834,
+    "label": "Powys",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "rabbit-run-wales": {
+    "lat": 51.50583,
+    "lon": -3.57722,
+    "label": "Bridgend",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "chasewater-trail-festival": {
+    "lat": 52.8577,
+    "lon": -2.03686,
+    "label": "Staffordshire",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "alton-towers-half-5k": {
+    "lat": 52.8577,
+    "lon": -2.03686,
+    "label": "Staffordshire",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "belfast-city-half": {
+    "lat": 54.59682,
+    "lon": -5.92541,
+    "label": "Belfast",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "newcastle-gateshead-marathon-festival": {
+    "lat": 54.96099,
+    "lon": -1.57971,
+    "label": "Gateshead International Stadium",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "thames-path-100": {
+    "lat": 51.46171,
+    "lon": -0.30633,
+    "label": "Richmond",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "north-downs-way-50": {
+    "lat": 51.90234,
+    "lon": 0.14214,
+    "label": "Farnham",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "south-downs-way-100": {
+    "lat": 50.76871,
+    "lon": 0.28453,
+    "label": "Eastbourne",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "south-downs-way-10km": {
+    "lat": 51.05819,
+    "lon": -1.2854,
+    "label": "Hampshire",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "south-downs-way-5km": {
+    "lat": 51.05819,
+    "lon": -1.2854,
+    "label": "Hampshire",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "north-downs-way-100": {
+    "lat": 51.90234,
+    "lon": 0.14214,
+    "label": "Farnham",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "chiltern-wonderland-50": {
+    "lat": 51.76577,
+    "lon": -1.32233,
+    "label": "Oxfordshire",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "carsington-water-trail-april": {
+    "lat": 53.13543,
+    "lon": -1.61125,
+    "label": "Derbyshire",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "wimbledon-common-half-10k": {
+    "lat": 51.43665,
+    "lon": -0.23355,
+    "label": "Wimbledon Common",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "windsor-trail-april": {
+    "lat": 51.48333,
+    "lon": -0.6,
+    "label": "Windsor",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "henley-river-trail-april": {
+    "lat": 51.53333,
+    "lon": -0.9,
+    "label": "Henley-on-Thames",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "newcastle-half-10k-july": {
+    "lat": 54.21804,
+    "lon": -5.88979,
+    "label": "Newcastle",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "newbury-racecourse-august": {
+    "lat": 51.39449,
+    "lon": -1.30012,
+    "label": "Newbury Racecourse",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "run-reigate-2027": {
+    "lat": 51.24787,
+    "lon": -0.4206,
+    "label": "Surrey",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "nottingham-running-festival-2027": {
+    "lat": 52.94815,
+    "lon": -1.10713,
+    "label": "Nottingham Racecourse",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "manchester-liverpool-ultra-50": {
+    "lat": 53.48095,
+    "lon": -2.23743,
+    "label": "Manchester",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "ultra-scotland-100": {
+    "lat": 55.61458,
+    "lon": -2.80695,
+    "label": "Galashiels",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "queen-elizabeth-olympic-park-february": {
+    "lat": 51.50853,
+    "lon": -0.12574,
+    "label": "London",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "glasgow-to-edinburgh-ultra": {
+    "lat": 55.86515,
+    "lon": -4.25763,
+    "label": "Glasgow",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "derry-belfast-75-mile": {
+    "lat": 54.9981,
+    "lon": -7.30934,
+    "label": "Derry",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "belfast-24-hour-festival": {
+    "lat": 50.79898,
+    "lon": -1.09401,
+    "label": "Victoria Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "norn-iron-100-mini": {
+    "lat": 54.93333,
+    "lon": -6.91667,
+    "label": "Dungiven",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "belfast-dublin-ultra": {
+    "lat": 54.59682,
+    "lon": -5.92541,
+    "label": "Belfast",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "edinburgh-marathon": {
+    "lat": 55.95206,
+    "lon": -3.19648,
+    "label": "Edinburgh",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "edinburgh-half-marathon": {
+    "lat": 55.95206,
+    "lon": -3.19648,
+    "label": "Edinburgh",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "edinburgh-festival-10k": {
+    "lat": 55.95206,
+    "lon": -3.19648,
+    "label": "Edinburgh",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "edinburgh-festival-5k": {
+    "lat": 55.95206,
+    "lon": -3.19648,
+    "label": "Edinburgh",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "kilomathon-scotland-13k": {
+    "lat": 55.9713,
+    "lon": -3.1723,
+    "label": "Leith",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "scottish-half-marathon": {
+    "lat": 55.94439,
+    "lon": -2.95412,
+    "label": "Tranent",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "scottish-10k": {
+    "lat": 55.9417,
+    "lon": -3.04991,
+    "label": "Musselburgh",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "edinburgh-running-festival-august": {
+    "lat": 55.95206,
+    "lon": -3.19648,
+    "label": "Edinburgh",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "warwick-half-marathon": {
+    "lat": 52.2797,
+    "lon": -1.6003,
+    "label": "Warwick Racecourse",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "hampton-court-palace-half": {
+    "lat": 51.40309,
+    "lon": -0.33697,
+    "label": "Hampton Court Palace",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "congleton-running-festival": {
+    "lat": 53.16314,
+    "lon": -2.21253,
+    "label": "Congleton",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "cheshire-spring-half": {
+    "lat": 53.30289,
+    "lon": -2.37482,
+    "label": "Knutsford",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "media-city-half-marathon": {
+    "lat": 53.47197,
+    "lon": -2.29821,
+    "label": "MediaCityUK",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "wrexham-half-marathon": {
+    "lat": 53.04664,
+    "lon": -2.99132,
+    "label": "Wrexham",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "newmarket-half-marathon": {
+    "lat": 52.23673,
+    "lon": 0.37299,
+    "label": "Newmarket Racecourse",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  },
+  "swindon-half-marathon": {
+    "lat": 51.55797,
+    "lon": -1.78116,
+    "label": "Swindon",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "basildon-half-10k": {
+    "lat": 51.78449,
+    "lon": 0.57449,
+    "label": "Essex",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "run-kent-tonbridge": {
+    "lat": 51.19532,
+    "lon": 0.27363,
+    "label": "Tonbridge",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "rugby-half-marathon": {
+    "lat": 52.37092,
+    "lon": -1.26417,
+    "label": "Rugby",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "maidenhead-half-10k": {
+    "lat": 51.03881,
+    "lon": 0.50216,
+    "label": "The Moor",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "brighton-ten": {
+    "lat": 50.82838,
+    "lon": -0.13947,
+    "label": "Brighton",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "beverley-half-marathon": {
+    "lat": 53.84587,
+    "lon": -0.42332,
+    "label": "Beverley",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "leeds-running-festival-march": {
+    "lat": 53.79648,
+    "lon": -1.54785,
+    "label": "Leeds",
+    "precision": "area",
+    "source": "GeoNames GB gazetteer"
+  },
+  "birmingham-running-festival-february": {
+    "lat": 52.56667,
+    "lon": -1.83333,
+    "label": "Sutton Park",
+    "precision": "venue",
+    "source": "GeoNames GB gazetteer"
+  }
+}

@@ -1,6 +1,10 @@
 # Project status
 
-Updated: 25 November 2026 (Europe/London)
+Updated: 26 November 2026 (Europe/London)
+
+## 26 November 2026: profile planning and complete race map
+
+All 400 profiles now link to their own map pin and show a race-specific planning note: location confidence, edition timing, and up to four unanswered practical questions selected from the record's missing fields. The map offers search and nation/surface filters; every pin opens a race profile. Organizer directions supply 255 coordinates. The remaining 145 are clearly marked approximate town, venue-area, or route-area pins, so runners should confirm the actual start in final instructions. The homepage and race directory link to the map, and the sitemap includes it. The site generator now includes these improvements on each rebuild.
 
 ## 25 November 2026: 400-profile expansion
 

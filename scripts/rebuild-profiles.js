@@ -111,3 +111,4 @@ for(const g of guideConfig){
   fs.writeFileSync(path.join(root,'app','guides',g.slug,'index.html'),html,'utf8');
 }
 console.log(`Rebuilt ${guideConfig.length} decision guides`);
+require('./enhance-site.js');
