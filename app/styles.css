@@ -10,3 +10,4 @@
 .toolbar{grid-template-columns:2fr auto 1fr 1fr 1fr}
 
 .crawlable-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin:22px 0}.crawlable-grid a{display:block;padding:18px;border:1px solid #849088;background:#fff;color:#07140f;text-decoration:none}.crawlable-grid strong,.crawlable-grid span{display:block}.crawlable-grid span{color:#415148;font-size:.85rem;margin-top:6px}.crawlable-grid a:hover{border-color:#a9361c;box-shadow:0 3px 0 #a9361c}@media(max-width:760px){.crawlable-grid{grid-template-columns:1fr}}
+.map-tab{display:inline-block;border:1px solid var(--accent);border-radius:3px;padding:7px 15px;margin-top:-8px;margin-bottom:-8px;font-weight:800;color:var(--accent)}.map-tab:hover,.map-tab:focus-visible{background:var(--accent);color:#fff}header nav{align-items:center;flex-wrap:wrap}@media(max-width:800px){header{gap:12px;flex-wrap:wrap}.map-tab{margin:0}}
